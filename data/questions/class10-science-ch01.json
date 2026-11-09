@@ -1,0 +1,100 @@
+{
+  "id": "class10-science-ch01",
+  "class": "10",
+  "subject": "Science",
+  "book": "NCERT Science",
+  "order": 1,
+  "chapter": "Chapter 1",
+  "title": "Chemical Reactions and Equations",
+  "icon": "⚗️",
+  "questions": [
+    {
+      "q": "Which gas is released when zinc reacts with dilute sulphuric acid?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Chlorine"
+      ],
+      "answer": 1,
+      "explanation": "Zn + H₂SO₄ → ZnSO₄ + H₂↑. The gas burns with a 'pop' sound."
+    },
+    {
+      "q": "CaO + H₂O → Ca(OH)₂ is an example of which type of reaction?",
+      "options": [
+        "Decomposition",
+        "Displacement",
+        "Combination",
+        "Double displacement"
+      ],
+      "answer": 2,
+      "explanation": "Two reactants combine to form a single product, so it is a combination reaction (and it is exothermic)."
+    },
+    {
+      "q": "What colour change is seen when an iron nail is dipped in copper sulphate solution?",
+      "options": [
+        "Blue to light green",
+        "Colourless to blue",
+        "Green to brown",
+        "No change"
+      ],
+      "answer": 0,
+      "explanation": "Iron displaces copper: Fe + CuSO₄ → FeSO₄ + Cu. Blue CuSO₄ turns pale green FeSO₄."
+    },
+    {
+      "q": "Burning of natural gas is an example of which type of reaction?",
+      "options": [
+        "Endothermic",
+        "Exothermic",
+        "Photolytic",
+        "Electrolytic"
+      ],
+      "answer": 1,
+      "explanation": "Combustion releases heat, so it is exothermic."
+    },
+    {
+      "q": "The black coating formed on heated copper powder is of:",
+      "options": [
+        "Copper sulphate",
+        "Copper oxide",
+        "Copper carbonate",
+        "Copper chloride"
+      ],
+      "answer": 1,
+      "explanation": "2Cu + O₂ → 2CuO (black copper(II) oxide)."
+    },
+    {
+      "q": "Silver chloride turns grey in sunlight because:",
+      "options": [
+        "It decomposes into silver and chlorine",
+        "It combines with oxygen",
+        "It melts",
+        "It dissolves in water"
+      ],
+      "answer": 0,
+      "explanation": "2AgCl → 2Ag + Cl₂ in sunlight (photolytic decomposition)."
+    },
+    {
+      "q": "Heating lead nitrate gives brown fumes of which gas?",
+      "options": [
+        "Nitrogen dioxide",
+        "Oxygen",
+        "Lead oxide",
+        "Carbon dioxide"
+      ],
+      "answer": 0,
+      "explanation": "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂. Brown fumes are nitrogen dioxide."
+    },
+    {
+      "q": "Which of these helps prevent rancidity of food?",
+      "options": [
+        "Adding antioxidants",
+        "Heating it in air",
+        "Keeping it in sunlight",
+        "Adding water"
+      ],
+      "answer": 0,
+      "explanation": "Antioxidants (or packing in nitrogen) slow the oxidation of fats and oils."
+    }
+  ]
+}

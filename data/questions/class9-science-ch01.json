@@ -1,0 +1,56 @@
+{
+  "id": "class9-science-ch01",
+  "class": "9",
+  "subject": "Science",
+  "book": "NCERT Science",
+  "order": 1,
+  "chapter": "Chapter 1",
+  "title": "Matter in Our Surroundings",
+  "icon": "💧",
+  "questions": [
+    {
+      "q": "What is 25 °C in kelvin (approx.)?",
+      "options": [
+        "248 K",
+        "298 K",
+        "273 K",
+        "373 K"
+      ],
+      "answer": 1,
+      "explanation": "K = °C + 273, so 25 + 273 = 298 K."
+    },
+    {
+      "q": "Which substance undergoes sublimation on heating?",
+      "options": [
+        "Ammonium chloride",
+        "Sugar",
+        "Iron",
+        "Common salt"
+      ],
+      "answer": 0,
+      "explanation": "Ammonium chloride changes directly from solid to gas. Camphor and naphthalene do too."
+    },
+    {
+      "q": "Why does evaporation cause cooling?",
+      "options": [
+        "Particles gain energy from the surroundings",
+        "Particles lose all energy",
+        "Heat is created",
+        "Water becomes colder by itself"
+      ],
+      "answer": 0,
+      "explanation": "Faster particles escape, and they take energy from the surroundings, which cools them."
+    },
+    {
+      "q": "At what temperature does ice melt at normal pressure?",
+      "options": [
+        "0 K",
+        "100 K",
+        "273 K",
+        "373 K"
+      ],
+      "answer": 2,
+      "explanation": "Ice melts at 0 °C = 273 K."
+    }
+  ]
+}

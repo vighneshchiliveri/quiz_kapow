@@ -1,0 +1,52 @@
+{
+  "chapters": [
+    {
+      "id": "class9-science-ch01",
+      "class": "9",
+      "subject": "Science",
+      "book": "NCERT Science",
+      "order": 1,
+      "chapter": "Chapter 1",
+      "title": "Matter in Our Surroundings",
+      "icon": "💧",
+      "count": 4,
+      "file": "data/questions/class9-science-ch01.json"
+    },
+    {
+      "id": "class10-science-ch01",
+      "class": "10",
+      "subject": "Science",
+      "book": "NCERT Science",
+      "order": 1,
+      "chapter": "Chapter 1",
+      "title": "Chemical Reactions and Equations",
+      "icon": "⚗️",
+      "count": 8,
+      "file": "data/questions/class10-science-ch01.json"
+    },
+    {
+      "id": "class10-science-ch08",
+      "class": "10",
+      "subject": "Science",
+      "book": "NCERT Science",
+      "order": 8,
+      "chapter": "Chapter 8",
+      "title": "Heredity",
+      "icon": "🧬",
+      "count": 6,
+      "file": "data/questions/class10-science-ch08.json"
+    },
+    {
+      "id": "class12-chemistry-ch02",
+      "class": "12",
+      "subject": "Chemistry",
+      "book": "NCERT Chemistry",
+      "order": 2,
+      "chapter": "Chapter 2",
+      "title": "Electrochemistry",
+      "icon": "🔋",
+      "count": 5,
+      "file": "data/questions/class12-chemistry-ch02.json"
+    }
+  ]
+}

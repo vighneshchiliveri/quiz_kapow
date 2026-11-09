@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Quiz Kapow! — NCERT Practice Arena</title>
+  <meta name="description" content="Quiz Kapow! — practise NCERT questions solo or run a classroom challenge. 4 options, a countdown timer and a final score." />
+  <meta name="theme-color" content="#ffe600" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&amp;family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;family=Space+Grotesk:wght@500;700&amp;family=Bangers&amp;display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="./" id="brandLink" aria-label="Quiz Kapow! home">
+        <span class="brand-mark" aria-hidden="true">Q!</span>
+        <span class="brand-text"><b>Quiz Kapow!</b><small>NCERT practice arena</small></span>
+      </a>
+      <nav class="head-actions" aria-label="Site">
+        <a class="study-link" href="https://ncert-onestop.vercel.app" target="_blank" rel="noopener noreferrer">
+          <span aria-hidden="true">📚</span> Study notes <span aria-hidden="true">↗</span>
+        </a>
+        <button class="icon-btn" id="soundBtn" type="button" aria-pressed="true" aria-label="Sound on" title="Sound (M)">🔊</button>
+      </nav>
+    </div>
+  </header>
+
+  <div class="ticker" aria-hidden="true">
+    <div class="ticker-track" id="tickerTrack"></div>
+  </div>
+
+  <main id="main">
+    <!-- ============ DASHBOARD ============ -->
+    <section id="viewHome" class="view">
+      <div class="hero">
+        <div class="hero-copy">
+          <span class="kicker">⚡ Practice arena</span>
+          <h1>Quiz <span>Kapow!</span></h1>
+          <p class="hero-text">Pick a chapter, beat the clock and blast through 4-option NCERT questions — <strong>solo</strong> to level up, or as a <strong>classroom challenge</strong> on the smart screen.</p>
+          <div class="hero-actions">
+            <a class="big-btn" href="#start" id="heroStart">Start a quiz <span aria-hidden="true">↓</span></a>
+            <a class="big-btn alt" href="https://ncert-onestop.vercel.app" target="_blank" rel="noopener noreferrer">📚 Study first ↗</a>
+          </div>
+          <ul class="hero-stats" id="heroStats" aria-label="Question bank size"></ul>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="art-card art-q"><span class="burst"><b>Q1</b></span><p>Which gas turns lime water milky?</p></div>
+          <div class="art-opts">
+            <span class="art-opt o-a"><i>A</i> Oxygen</span>
+            <span class="art-opt o-b"><i>B</i> Carbon dioxide</span>
+            <span class="art-opt o-c"><i>C</i> Hydrogen</span>
+            <span class="art-opt o-d"><i>D</i> Nitrogen</span>
+          </div>
+          <div class="art-timer"><b>00:30</b></div>
+        </div>
+      </div>
+
+      <aside class="study-banner" aria-label="Study material">
+        <div class="study-badge" aria-hidden="true">📚</div>
+        <div class="study-copy">
+          <strong>Need to revise before the quiz?</strong>
+          <span>Read chapter notes, summaries and Q&amp;A on <b>NCERT One Stop</b> — then come back and test yourself!</span>
+        </div>
+        <a class="big-btn small" href="https://ncert-onestop.vercel.app" target="_blank" rel="noopener noreferrer">ncert-onestop.vercel.app ↗</a>
+      </aside>
+
+      <section class="wizard" id="start" aria-labelledby="wizardTitle">
+        <h2 id="wizardTitle" class="sr-only">Set up your quiz</h2>
+        <ol class="stepper" id="stepper" aria-label="Quiz setup steps">
+          <li><button type="button" data-goto="1" class="is-active"><b>1</b><span>Class</span></button></li>
+          <li><button type="button" data-goto="2" disabled><b>2</b><span>Subject</span></button></li>
+          <li><button type="button" data-goto="3" disabled><b>3</b><span>Chapter</span></button></li>
+          <li><button type="button" data-goto="4" disabled><b>4</b><span>Mode</span></button></li>
+        </ol>
+        <div class="path" id="pathBar" hidden></div>
+
+        <div class="step" id="step1" data-step="1">
+          <header class="step-head"><span class="burst small"><b>1</b></span><h2>Select your class!</h2></header>
+          <div class="grid class-grid" id="classGrid"></div>
+        </div>
+
+        <div class="step" id="step2" data-step="2" hidden>
+          <header class="step-head"><span class="burst small"><b>2</b></span><h2>Choose a subject!</h2></header>
+          <div class="grid subject-grid" id="subjectGrid"></div>
+        </div>
+
+        <div class="step" id="step3" data-step="3" hidden>
+          <header class="step-head"><span class="burst small"><b>3</b></span><h2>Pick a chapter!</h2></header>
+          <div class="chips" id="bookChips" hidden></div>
+          <div class="grid chapter-grid" id="chapterGrid"></div>
+        </div>
+
+        <div class="step" id="step4" data-step="4" hidden>
+          <header class="step-head"><span class="burst small"><b>4</b></span><h2>Choose your mode!</h2></header>
+          <div class="mode-grid">
+            <button type="button" class="mode-card solo" data-mode="solo" aria-pressed="false">
+              <span class="mode-icon" aria-hidden="true">🧑‍🎓</span>
+              <strong>Solo practice</strong>
+              <span>You vs the clock. Instant feedback, explanations and a score at the end.</span>
+              <em class="mode-tag">Self study</em>
+            </button>
+            <button type="button" class="mode-card team" data-mode="class" aria-pressed="false">
+              <span class="mode-icon" aria-hidden="true">🏫</span>
+              <strong>Classroom challenge</strong>
+              <span>Teacher runs it on the smart screen. Teams answer in class, teacher reveals &amp; awards points.</span>
+              <em class="mode-tag">Teacher led</em>
+            </button>
+          </div>
+
+          <div class="settings" id="settings" hidden>
+            <div class="set-group">
+              <h3>Questions</h3>
+              <div class="chips" id="countChips" role="radiogroup" aria-label="Number of questions"></div>
+            </div>
+            <div class="set-group">
+              <h3>Time per question</h3>
+              <div class="chips" id="timeChips" role="radiogroup" aria-label="Seconds per question"></div>
+            </div>
+            <div class="set-group" id="teamGroup" hidden>
+              <h3>Teams</h3>
+              <div class="chips" id="teamCountChips" role="radiogroup" aria-label="Number of teams"></div>
+              <div class="team-names" id="teamNames"></div>
+            </div>
+            <div class="set-group" id="pointsGroup" hidden>
+              <h3>Points per correct answer</h3>
+              <div class="chips" id="pointsChips" role="radiogroup" aria-label="Points per correct answer"></div>
+            </div>
+            <div class="start-row">
+              <button type="button" class="big-btn go" id="startBtn">▶ Start quiz!</button>
+              <p class="start-note" id="startNote"></p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </section>
+
+    <!-- ============ QUIZ ============ -->
+    <section id="viewQuiz" class="view quiz" hidden aria-label="Quiz">
+      <div class="quiz-top">
+        <div class="quiz-title"><span class="chip" id="qzMode"></span><span class="quiz-chapter" id="qzChapter"></span></div>
+        <div class="quiz-counter" id="qzCounter" aria-live="polite"></div>
+        <div class="quiz-tools">
+          <button type="button" class="tool-btn" id="qzFs" title="Full screen (F)">⛶ Full screen</button>
+          <button type="button" class="tool-btn danger" id="qzQuit" title="Quit (Esc)">✕ Quit</button>
+        </div>
+      </div>
+      <div class="q-progress" aria-hidden="true"><i id="qzFill"></i></div>
+
+      <div class="quiz-grid">
+        <div class="quiz-main">
+          <article class="q-card" id="qCard">
+            <div class="q-head">
+              <span class="burst" id="qBurst"><b>Q1</b></span>
+              <h2 class="q-text" id="qText"></h2>
+            </div>
+            <div class="q-body">
+              <div class="options" id="options" role="group" aria-label="Answer options"></div>
+              <div class="feedback" id="feedback" hidden aria-live="polite"></div>
+              <div class="award" id="award" hidden></div>
+              <div class="q-actions" id="qActions"></div>
+            </div>
+          </article>
+        </div>
+
+        <aside class="side" id="side" aria-label="Timer and score">
+          <div class="timer-card" id="timerCard">
+            <div class="timer-tag">⏱ Timer</div>
+            <div class="ring">
+              <svg viewBox="0 0 200 200" aria-hidden="true">
+                <circle class="ring-out" cx="100" cy="100" r="98"/>
+                <circle class="ring-bg" cx="100" cy="100" r="82"/>
+                <circle class="ring-fg" id="ringFg" cx="100" cy="100" r="82" transform="rotate(-90 100 100)"/>
+              </svg>
+              <div class="ring-time" role="timer"><b id="timeText">00:30</b><small id="timeLabel">left</small></div>
+            </div>
+          </div>
+          <div class="side-panel" id="sidePanel"></div>
+        </aside>
+      </div>
+      <div class="stamp" id="stamp" hidden></div>
+    </section>
+
+    <!-- ============ RESULT ============ -->
+    <section id="viewResult" class="view result" hidden aria-label="Results"></section>
+  </main>
+
+  <footer class="site-footer">
+    <p><strong>Quiz Kapow!</strong> is a practice companion to <a href="https://ncert-onestop.vercel.app" target="_blank" rel="noopener noreferrer">NCERT One Stop</a> — notes, summaries &amp; Q&amp;A at ncert-onestop.vercel.app. An independent study resource, not an official NCERT website.</p>
+  </footer>
+
+  <dialog id="quitDialog" class="dialog">
+    <form method="dialog">
+      <h2>Quit this quiz?</h2>
+      <p>Your progress in this round will be lost.</p>
+      <div class="dialog-actions">
+        <button class="big-btn small alt" value="stay">Keep playing</button>
+        <button class="big-btn small danger" value="quit">Yes, quit</button>
+      </div>
+    </form>
+  </dialog>
+
+  <canvas id="confetti" aria-hidden="true"></canvas>
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

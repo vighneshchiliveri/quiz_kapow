@@ -1,0 +1,11 @@
+{
+  "name": "Quiz Kapow! — NCERT Practice Arena",
+  "short_name": "Quiz Kapow!",
+  "description": "NCERT question practice: solo or classroom challenge.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffe600",
+  "theme_color": "#ffe600",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

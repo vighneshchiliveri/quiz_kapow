@@ -1,0 +1,78 @@
+{
+  "id": "class10-science-ch08",
+  "class": "10",
+  "subject": "Science",
+  "book": "NCERT Science",
+  "order": 8,
+  "chapter": "Chapter 8",
+  "title": "Heredity",
+  "icon": "🧬",
+  "questions": [
+    {
+      "q": "Who is known as the 'Father of Genetics'?",
+      "options": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Lamarck",
+        "James Watson"
+      ],
+      "answer": 1,
+      "explanation": "Mendel worked on pea plants and discovered the laws of inheritance."
+    },
+    {
+      "q": "What is the phenotypic ratio in the F₂ generation of a monohybrid cross?",
+      "options": [
+        "1 : 1",
+        "3 : 1",
+        "9 : 3 : 3 : 1",
+        "1 : 2 : 1"
+      ],
+      "answer": 1,
+      "explanation": "Tall : Dwarf = 3 : 1 in the F₂ generation."
+    },
+    {
+      "q": "What is the F₂ phenotypic ratio of a dihybrid cross?",
+      "options": [
+        "3 : 1",
+        "1 : 1 : 1 : 1",
+        "9 : 3 : 3 : 1",
+        "1 : 2 : 1"
+      ],
+      "answer": 2,
+      "explanation": "Mendel's dihybrid cross gave 9 : 3 : 3 : 1."
+    },
+    {
+      "q": "Which sex chromosomes does a human female have?",
+      "options": [
+        "XY",
+        "XX",
+        "XO",
+        "YY"
+      ],
+      "answer": 1,
+      "explanation": "Females have XX; males have XY."
+    },
+    {
+      "q": "Who determines the sex of a child?",
+      "options": [
+        "Mother",
+        "Father",
+        "Grandparents",
+        "Environment"
+      ],
+      "answer": 1,
+      "explanation": "All eggs carry X, but sperm carry X or Y, so the father's contribution decides."
+    },
+    {
+      "q": "How many pairs of chromosomes are there in a human cell?",
+      "options": [
+        "22",
+        "23",
+        "46",
+        "44"
+      ],
+      "answer": 1,
+      "explanation": "Humans have 23 pairs: 22 autosome pairs and 1 pair of sex chromosomes."
+    }
+  ]
+}

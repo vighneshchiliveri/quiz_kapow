@@ -1,0 +1,67 @@
+{
+  "id": "class12-chemistry-ch02",
+  "class": "12",
+  "subject": "Chemistry",
+  "book": "NCERT Chemistry",
+  "order": 2,
+  "chapter": "Chapter 2",
+  "title": "Electrochemistry",
+  "icon": "🔋",
+  "questions": [
+    {
+      "q": "Which is the SI unit of molar conductivity?",
+      "options": [
+        "S m⁻¹",
+        "S m² mol⁻¹",
+        "Ω m",
+        "mol L⁻¹"
+      ],
+      "answer": 1,
+      "explanation": "Λm = κ / c, so its unit is S m² mol⁻¹."
+    },
+    {
+      "q": "In a galvanic cell, electrons flow from:",
+      "options": [
+        "Cathode to anode inside the cell",
+        "Anode to cathode through the external circuit",
+        "Salt bridge to anode",
+        "Cathode to salt bridge"
+      ],
+      "answer": 1,
+      "explanation": "Oxidation at the anode releases electrons that travel through the wire to the cathode."
+    },
+    {
+      "q": "What is the standard electrode potential of the standard hydrogen electrode (SHE)?",
+      "options": [
+        "+1.00 V",
+        "−1.00 V",
+        "0.00 V",
+        "+0.34 V"
+      ],
+      "answer": 2,
+      "explanation": "By convention, SHE is assigned exactly 0.00 V."
+    },
+    {
+      "q": "The value of the Faraday constant is approximately:",
+      "options": [
+        "9650 C mol⁻¹",
+        "96500 C mol⁻¹",
+        "6.022 × 10²³ C mol⁻¹",
+        "1.6 × 10⁻¹⁹ C mol⁻¹"
+      ],
+      "answer": 1,
+      "explanation": "1 F = charge on one mole of electrons ≈ 96500 C mol⁻¹."
+    },
+    {
+      "q": "Which of these is a secondary (rechargeable) cell?",
+      "options": [
+        "Dry cell",
+        "Mercury cell",
+        "Lead storage battery",
+        "Fuel cell"
+      ],
+      "answer": 2,
+      "explanation": "The lead storage battery can be recharged; dry and mercury cells are primary cells."
+    }
+  ]
+}
