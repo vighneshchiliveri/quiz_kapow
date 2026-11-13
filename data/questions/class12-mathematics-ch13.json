@@ -1,0 +1,78 @@
+{
+  "id": "class12-mathematics-ch13",
+  "class": "12",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 13,
+  "chapter": "Chapter 13",
+  "title": "Probability",
+  "icon": "🎯",
+  "questions": [
+    {
+      "q": "P(A | B) = ____.",
+      "options": [
+        "P(B) / P(A ∩ B)",
+        "P(A) × P(B)",
+        "P(A ∩ B) / P(B)",
+        "P(A) / P(B)"
+      ],
+      "answer": 2,
+      "explanation": "This is the formula for conditional probability."
+    },
+    {
+      "q": "Events A and B are independent if ____.",
+      "options": [
+        "P(A) + P(B) = 1",
+        "P(A ∩ B) = 0",
+        "P(A) = P(B)",
+        "P(A ∩ B) = P(A) × P(B)"
+      ],
+      "answer": 3,
+      "explanation": "This is the definition of independence."
+    },
+    {
+      "q": "Which theorem finds the probability of a cause given an observed effect?",
+      "options": [
+        "Binomial theorem",
+        "Bayes' theorem",
+        "Rolle's theorem",
+        "Pythagoras' theorem"
+      ],
+      "answer": 1,
+      "explanation": "Bayes' theorem reverses conditional probabilities."
+    },
+    {
+      "q": "If P(A) = 0.3 and P(B) = 0.4 are independent, what is P(A ∩ B)?",
+      "options": [
+        "0.1",
+        "0.12",
+        "0.7",
+        "0.34"
+      ],
+      "answer": 1,
+      "explanation": "0.3 × 0.4 = 0.12."
+    },
+    {
+      "q": "Bernoulli trials have ____.",
+      "options": [
+        "dependent trials",
+        "no fixed number of outcomes",
+        "three or more outcomes",
+        "exactly two outcomes and are independent"
+      ],
+      "answer": 3,
+      "explanation": "Each trial is success or failure, independent of the others."
+    },
+    {
+      "q": "What is the mean of a binomial distribution with n = 10 and p = 0.5?",
+      "options": [
+        "0.5",
+        "2.5",
+        "10",
+        "5"
+      ],
+      "answer": 3,
+      "explanation": "Mean = np = 5."
+    }
+  ]
+}

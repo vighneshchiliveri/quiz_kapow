@@ -1,0 +1,78 @@
+{
+  "id": "class6-mathematics-ch09",
+  "class": "6",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash",
+  "order": 9,
+  "chapter": "Chapter 9",
+  "title": "Symmetry",
+  "icon": "🦋",
+  "questions": [
+    {
+      "q": "How many lines of symmetry does a square have?",
+      "options": [
+        "8",
+        "2",
+        "4",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "A square has 2 diagonals, 1 vertical and 1 horizontal line of symmetry."
+    },
+    {
+      "q": "How many lines of symmetry does an equilateral triangle have?",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "There is one line from each vertex to the middle of the opposite side."
+    },
+    {
+      "q": "Which letter has a vertical line of symmetry?",
+      "options": [
+        "G",
+        "F",
+        "R",
+        "A"
+      ],
+      "answer": 3,
+      "explanation": "Only A looks the same on both sides of a vertical line."
+    },
+    {
+      "q": "How many lines of symmetry does a rectangle (that is not a square) have?",
+      "options": [
+        "2",
+        "4",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explanation": "One vertical and one horizontal line."
+    },
+    {
+      "q": "How many lines of symmetry does a circle have?",
+      "options": [
+        "4",
+        "Infinitely many",
+        "1",
+        "2"
+      ],
+      "answer": 1,
+      "explanation": "Every line through the centre is a line of symmetry."
+    },
+    {
+      "q": "What is the order of rotational symmetry of an equilateral triangle?",
+      "options": [
+        "3",
+        "1",
+        "6",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "It looks the same after turns of 120°, 240° and 360°."
+    }
+  ]
+}

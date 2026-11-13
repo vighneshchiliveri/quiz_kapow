@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch12",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 12,
+  "chapter": "Chapter 12",
+  "title": "Limits and Derivatives",
+  "icon": "📉",
+  "questions": [
+    {
+      "q": "What is the limit of x² as x → 2?",
+      "options": [
+        "0",
+        "2",
+        "8",
+        "4"
+      ],
+      "answer": 3,
+      "explanation": "Substitute x = 2."
+    },
+    {
+      "q": "What is d/dx (x³)?",
+      "options": [
+        "x²",
+        "3x²",
+        "x⁴/4",
+        "3x"
+      ],
+      "answer": 1,
+      "explanation": "d/dx xⁿ = n xⁿ⁻¹."
+    },
+    {
+      "q": "What is lim (x → 0) sin x / x?",
+      "options": [
+        "∞",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "This is a standard limit."
+    },
+    {
+      "q": "What is d/dx (sin x)?",
+      "options": [
+        "−cos x",
+        "cos x",
+        "tan x",
+        "−sin x"
+      ],
+      "answer": 1,
+      "explanation": "The derivative of sine is cosine."
+    },
+    {
+      "q": "What is the derivative of a constant?",
+      "options": [
+        "undefined",
+        "0",
+        "1",
+        "the constant itself"
+      ],
+      "answer": 1,
+      "explanation": "A constant does not change."
+    },
+    {
+      "q": "What is d/dx (5x² + 3x)?",
+      "options": [
+        "10x² + 3",
+        "10x",
+        "10x + 3",
+        "5x + 3"
+      ],
+      "answer": 2,
+      "explanation": "Differentiate each term separately."
+    }
+  ]
+}

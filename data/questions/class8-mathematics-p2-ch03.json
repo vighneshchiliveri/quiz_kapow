@@ -1,0 +1,78 @@
+{
+  "id": "class8-mathematics-p2-ch03",
+  "class": "8",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 2",
+  "order": 3,
+  "chapter": "Chapter 3",
+  "title": "Proportional Reasoning-2",
+  "icon": "🔁",
+  "questions": [
+    {
+      "q": "6 workers finish a job in 10 days. How many days will 12 workers take?",
+      "options": [
+        "15",
+        "10",
+        "20",
+        "5"
+      ],
+      "answer": 3,
+      "explanation": "More workers means fewer days: 6 × 10 = 12 × days."
+    },
+    {
+      "q": "In inverse proportion, the ____ of the two quantities stays constant.",
+      "options": [
+        "product",
+        "quotient",
+        "difference",
+        "sum"
+      ],
+      "answer": 0,
+      "explanation": "If x increases, y decreases so that xy stays the same."
+    },
+    {
+      "q": "A car at 60 km/h takes 4 hours. At 80 km/h, how long will it take?",
+      "options": [
+        "5 hours",
+        "2 hours",
+        "3 hours",
+        "4 hours"
+      ],
+      "answer": 2,
+      "explanation": "Distance 240 km ÷ 80 = 3 hours."
+    },
+    {
+      "q": "Which pair of quantities is in inverse proportion (distance fixed)?",
+      "options": [
+        "Cost and weight",
+        "Time and distance",
+        "Speed and time",
+        "Length and area"
+      ],
+      "answer": 2,
+      "explanation": "Distance = speed × time is constant."
+    },
+    {
+      "q": "Food lasts 20 days for 10 people. How long will it last for 20 people?",
+      "options": [
+        "20 days",
+        "10 days",
+        "5 days",
+        "40 days"
+      ],
+      "answer": 1,
+      "explanation": "Double the people means half the days."
+    },
+    {
+      "q": "If xy = 24 and x = 4, what is y?",
+      "options": [
+        "96",
+        "20",
+        "6",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "y = 24 ÷ 4 = 6."
+    }
+  ]
+}

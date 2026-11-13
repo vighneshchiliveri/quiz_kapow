@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch09",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 9,
+  "chapter": "Chapter 9",
+  "title": "Straight Lines",
+  "icon": "📏",
+  "questions": [
+    {
+      "q": "What is the slope of the line through (1, 2) and (3, 6)?",
+      "options": [
+        "2",
+        "3",
+        "1/2",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "(6 − 2)/(3 − 1) = 2."
+    },
+    {
+      "q": "The slope-intercept form of a line is ____.",
+      "options": [
+        "x/a + y/b = 1",
+        "y = mx + c",
+        "y − y₁ = m",
+        "ax + by = 0"
+      ],
+      "answer": 1,
+      "explanation": "m is the slope and c is the y-intercept."
+    },
+    {
+      "q": "What is the slope of a line perpendicular to a line with slope 2?",
+      "options": [
+        "1/2",
+        "−1/2",
+        "−2",
+        "2"
+      ],
+      "answer": 1,
+      "explanation": "The product of the slopes of perpendicular lines is −1."
+    },
+    {
+      "q": "What is the distance of the line 3x + 4y − 5 = 0 from the origin?",
+      "options": [
+        "5",
+        "1",
+        "0",
+        "5/7"
+      ],
+      "answer": 1,
+      "explanation": "|−5|/√(9 + 16) = 1."
+    },
+    {
+      "q": "What is the equation of the line through the origin with slope 3?",
+      "options": [
+        "y = 3x",
+        "x = 3y",
+        "y = 3",
+        "y = x + 3"
+      ],
+      "answer": 0,
+      "explanation": "y − 0 = 3(x − 0)."
+    },
+    {
+      "q": "What is the slope of the x-axis?",
+      "options": [
+        "∞",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explanation": "The x-axis is horizontal."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "class12-mathematics-ch07",
+  "class": "12",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 7,
+  "chapter": "Chapter 7",
+  "title": "Integrals",
+  "icon": "∫",
+  "questions": [
+    {
+      "q": "What is ∫ x² dx?",
+      "options": [
+        "x³/3 + C",
+        "x²/2 + C",
+        "x³ + C",
+        "2x + C"
+      ],
+      "answer": 0,
+      "explanation": "Add 1 to the power and divide by the new power."
+    },
+    {
+      "q": "What is ∫ cos x dx?",
+      "options": [
+        "sin x + C",
+        "cos x + C",
+        "tan x + C",
+        "−sin x + C"
+      ],
+      "answer": 0,
+      "explanation": "The derivative of sin x is cos x."
+    },
+    {
+      "q": "What is ∫ (1/x) dx?",
+      "options": [
+        "ln|x| + C",
+        "x + C",
+        "1/x² + C",
+        "−1/x + C"
+      ],
+      "answer": 0,
+      "explanation": "This is a standard integral."
+    },
+    {
+      "q": "What is ∫ eˣ dx?",
+      "options": [
+        "eˣ⁺¹ + C",
+        "eˣ + C",
+        "x eˣ + C",
+        "ln x + C"
+      ],
+      "answer": 1,
+      "explanation": "The exponential function is its own integral."
+    },
+    {
+      "q": "What is ∫₀¹ 2x dx?",
+      "options": [
+        "0",
+        "2",
+        "1",
+        "1/2"
+      ],
+      "answer": 2,
+      "explanation": "[x²] from 0 to 1 is 1."
+    },
+    {
+      "q": "What is ∫ sec²x dx?",
+      "options": [
+        "−tan x + C",
+        "sec x + C",
+        "tan x + C",
+        "cot x + C"
+      ],
+      "answer": 2,
+      "explanation": "The derivative of tan x is sec²x."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "class10-mathematics-ch03",
+  "class": "10",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 3,
+  "chapter": "Chapter 3",
+  "title": "Pair of Linear Equations in Two Variables",
+  "icon": "⚖️",
+  "questions": [
+    {
+      "q": "Solve x + y = 5 and x − y = 1.",
+      "options": [
+        "x = 4, y = 1",
+        "x = 2, y = 3",
+        "x = 3, y = 2",
+        "x = 5, y = 0"
+      ],
+      "answer": 2,
+      "explanation": "Adding gives 2x = 6, so x = 3 and y = 2."
+    },
+    {
+      "q": "If two lines are parallel, the pair of equations has ____.",
+      "options": [
+        "no solution",
+        "two solutions",
+        "infinitely many solutions",
+        "one solution"
+      ],
+      "answer": 0,
+      "explanation": "Parallel lines never meet."
+    },
+    {
+      "q": "A consistent pair of linear equations has ____.",
+      "options": [
+        "exactly two solutions",
+        "a unique solution or infinitely many solutions",
+        "only zero as a solution",
+        "no solution"
+      ],
+      "answer": 1,
+      "explanation": "Consistent means at least one solution exists."
+    },
+    {
+      "q": "If a₁/a₂ = b₁/b₂ = c₁/c₂, the lines are ____.",
+      "options": [
+        "perpendicular",
+        "parallel",
+        "coincident",
+        "intersecting"
+      ],
+      "answer": 2,
+      "explanation": "The equations represent the same line."
+    },
+    {
+      "q": "If x + y = 14 and x − y = 4, what is x?",
+      "options": [
+        "10",
+        "5",
+        "9",
+        "7"
+      ],
+      "answer": 2,
+      "explanation": "Adding gives 2x = 18, so x = 9."
+    },
+    {
+      "q": "If x = 2 satisfies 3x + y = 10, what is y?",
+      "options": [
+        "−4",
+        "16",
+        "2",
+        "4"
+      ],
+      "answer": 3,
+      "explanation": "6 + y = 10, so y = 4."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "class8-mathematics-p2-ch06",
+  "class": "8",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 2",
+  "order": 6,
+  "chapter": "Chapter 6",
+  "title": "Algebra Play",
+  "icon": "🎮",
+  "questions": [
+    {
+      "q": "Solve 2x + 5 = 15.",
+      "options": [
+        "x = 20",
+        "x = 7.5",
+        "x = 5",
+        "x = 10"
+      ],
+      "answer": 2,
+      "explanation": "2x = 10, so x = 5."
+    },
+    {
+      "q": "Solve 3(x − 2) = 12.",
+      "options": [
+        "x = 6",
+        "x = 10",
+        "x = 2",
+        "x = 4"
+      ],
+      "answer": 0,
+      "explanation": "x − 2 = 4, so x = 6."
+    },
+    {
+      "q": "What is the coefficient of x in 7x − 3?",
+      "options": [
+        "3",
+        "−3",
+        "7",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "The coefficient is the number multiplying x."
+    },
+    {
+      "q": "If x = 3, what is the value of x² + 2x?",
+      "options": [
+        "9",
+        "12",
+        "15",
+        "18"
+      ],
+      "answer": 2,
+      "explanation": "9 + 6 = 15."
+    },
+    {
+      "q": "Solve x/2 + 3 = 7.",
+      "options": [
+        "x = 8",
+        "x = 20",
+        "x = 5",
+        "x = 2"
+      ],
+      "answer": 0,
+      "explanation": "x/2 = 4, so x = 8."
+    },
+    {
+      "q": "In a linear equation in one variable, the highest power of the variable is ____.",
+      "options": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "That is what makes it linear."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "class9-mathematics-ch08",
+  "class": "9",
+  "subject": "Mathematics",
+  "book": "Ganita Manjari Part 1",
+  "order": 8,
+  "chapter": "Chapter 8",
+  "title": "Predicting What Comes Next: Exploring Sequences and Progressions",
+  "icon": "🔮",
+  "questions": [
+    {
+      "q": "In the AP 2, 5, 8, 11, … what is the common difference?",
+      "options": [
+        "2",
+        "11",
+        "5",
+        "3"
+      ],
+      "answer": 3,
+      "explanation": "Each term is 3 more than the previous."
+    },
+    {
+      "q": "What is the 10th term of the AP 3, 7, 11, …?",
+      "options": [
+        "40",
+        "39",
+        "43",
+        "37"
+      ],
+      "answer": 1,
+      "explanation": "a + 9d = 3 + 9 × 4 = 39."
+    },
+    {
+      "q": "What is the common ratio of the GP 2, 6, 18, …?",
+      "options": [
+        "3",
+        "6",
+        "4",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "6 ÷ 2 = 3."
+    },
+    {
+      "q": "What is the next term in the GP 3, 6, 12, …?",
+      "options": [
+        "15",
+        "24",
+        "36",
+        "18"
+      ],
+      "answer": 1,
+      "explanation": "Each term is multiplied by 2."
+    },
+    {
+      "q": "What is the sum of the first 10 natural numbers?",
+      "options": [
+        "50",
+        "45",
+        "55",
+        "100"
+      ],
+      "answer": 2,
+      "explanation": "n(n + 1)/2 = 55."
+    },
+    {
+      "q": "What is the 8th term of the AP 5, 9, 13, …?",
+      "options": [
+        "33",
+        "45",
+        "37",
+        "29"
+      ],
+      "answer": 0,
+      "explanation": "5 + 7 × 4 = 33."
+    }
+  ]
+}

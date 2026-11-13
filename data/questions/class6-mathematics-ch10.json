@@ -1,0 +1,78 @@
+{
+  "id": "class6-mathematics-ch10",
+  "class": "6",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash",
+  "order": 10,
+  "chapter": "Chapter 10",
+  "title": "The Other Side of Zero",
+  "icon": "🌡️",
+  "questions": [
+    {
+      "q": "What is the opposite (additive inverse) of +5?",
+      "options": [
+        "−5",
+        "−1/5",
+        "0",
+        "5"
+      ],
+      "answer": 0,
+      "explanation": "5 + (−5) = 0."
+    },
+    {
+      "q": "Which is greater, −2 or −7?",
+      "options": [
+        "They are equal",
+        "Cannot say",
+        "−7",
+        "−2"
+      ],
+      "answer": 3,
+      "explanation": "On a number line, −2 lies to the right of −7."
+    },
+    {
+      "q": "What is −3 + 5?",
+      "options": [
+        "−2",
+        "2",
+        "8",
+        "−8"
+      ],
+      "answer": 1,
+      "explanation": "Start at −3 and move 5 steps right to reach 2."
+    },
+    {
+      "q": "What is 4 − 9?",
+      "options": [
+        "5",
+        "13",
+        "−5",
+        "−13"
+      ],
+      "answer": 2,
+      "explanation": "4 − 9 = −5."
+    },
+    {
+      "q": "Numbers to the left of zero on the number line are ____.",
+      "options": [
+        "zero",
+        "fractions only",
+        "negative",
+        "positive"
+      ],
+      "answer": 2,
+      "explanation": "Negative integers lie to the left of 0."
+    },
+    {
+      "q": "The temperature falls from 3 °C to −4 °C. By how much did it fall?",
+      "options": [
+        "1 °C",
+        "4 °C",
+        "7 °C",
+        "−7 °C"
+      ],
+      "answer": 2,
+      "explanation": "3 − (−4) = 7 degrees."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p1-ch07",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 7,
+  "chapter": "Chapter 7",
+  "title": "A Tale of Three Intersecting Lines",
+  "icon": "🔺",
+  "questions": [
+    {
+      "q": "What is the sum of the angles of a triangle?",
+      "options": [
+        "360°",
+        "90°",
+        "180°",
+        "270°"
+      ],
+      "answer": 2,
+      "explanation": "The angles of any triangle add up to 180°."
+    },
+    {
+      "q": "Which set of sides can form a triangle?",
+      "options": [
+        "5 cm, 7 cm, 10 cm",
+        "3 cm, 4 cm, 8 cm",
+        "1 cm, 2 cm, 3 cm",
+        "2 cm, 3 cm, 6 cm"
+      ],
+      "answer": 0,
+      "explanation": "The sum of any two sides must be greater than the third side: 5 + 7 > 10."
+    },
+    {
+      "q": "An exterior angle of a triangle equals the ____.",
+      "options": [
+        "third angle",
+        "half of the sum of all angles",
+        "difference of the angles",
+        "sum of the two opposite interior angles"
+      ],
+      "answer": 3,
+      "explanation": "This is the exterior angle property."
+    },
+    {
+      "q": "Two angles of a triangle are 50° and 60°. What is the third angle?",
+      "options": [
+        "80°",
+        "60°",
+        "70°",
+        "110°"
+      ],
+      "answer": 2,
+      "explanation": "180° − 50° − 60° = 70°."
+    },
+    {
+      "q": "What is each angle of an equilateral triangle?",
+      "options": [
+        "90°",
+        "60°",
+        "30°",
+        "45°"
+      ],
+      "answer": 1,
+      "explanation": "180° ÷ 3 = 60°."
+    },
+    {
+      "q": "An isosceles triangle has a vertex angle of 40°. What is each base angle?",
+      "options": [
+        "70°",
+        "80°",
+        "40°",
+        "140°"
+      ],
+      "answer": 0,
+      "explanation": "(180° − 40°) ÷ 2 = 70°."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "class8-mathematics-p1-ch06",
+  "class": "8",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 6,
+  "chapter": "Chapter 6",
+  "title": "We Distribute, Yet Things Multiply",
+  "icon": "✖️",
+  "questions": [
+    {
+      "q": "What is (x + y)²?",
+      "options": [
+        "x² + 2xy + y²",
+        "x² + xy + y²",
+        "x² + y²",
+        "2x + 2y"
+      ],
+      "answer": 0,
+      "explanation": "Expand (x + y)(x + y)."
+    },
+    {
+      "q": "What is (a + b)(a − b)?",
+      "options": [
+        "a² − 2ab + b²",
+        "2a",
+        "a² − b²",
+        "a² + b²"
+      ],
+      "answer": 2,
+      "explanation": "This is the difference of squares identity."
+    },
+    {
+      "q": "What is (x + 3)(x + 2)?",
+      "options": [
+        "x² + 6",
+        "2x + 5",
+        "x² + 5x + 5",
+        "x² + 5x + 6"
+      ],
+      "answer": 3,
+      "explanation": "x² + 2x + 3x + 6 = x² + 5x + 6."
+    },
+    {
+      "q": "What is 3(x + 4)?",
+      "options": [
+        "3x + 4",
+        "x + 12",
+        "3x + 12",
+        "12x"
+      ],
+      "answer": 2,
+      "explanation": "Distribute 3 over both terms."
+    },
+    {
+      "q": "What is 101 × 99 using identities?",
+      "options": [
+        "9999",
+        "10,099",
+        "10,001",
+        "9,899"
+      ],
+      "answer": 0,
+      "explanation": "(100 + 1)(100 − 1) = 100² − 1 = 9999."
+    },
+    {
+      "q": "What is (x − 1)²?",
+      "options": [
+        "x² + 2x + 1",
+        "x² − 2x + 1",
+        "x² − 2x − 1",
+        "x² − 1"
+      ],
+      "answer": 1,
+      "explanation": "(x − 1)² = x² − 2x + 1."
+    }
+  ]
+}

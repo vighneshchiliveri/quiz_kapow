@@ -1,0 +1,78 @@
+{
+  "id": "class12-mathematics-ch12",
+  "class": "12",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 12,
+  "chapter": "Chapter 12",
+  "title": "Linear Programming",
+  "icon": "📈",
+  "questions": [
+    {
+      "q": "The function to be maximised or minimised in a linear programming problem is called the ____.",
+      "options": [
+        "feasible region",
+        "slack variable",
+        "objective function",
+        "constraint"
+      ],
+      "answer": 2,
+      "explanation": "It is the quantity we want to optimise."
+    },
+    {
+      "q": "The feasible region is the set of points that ____.",
+      "options": [
+        "violate all constraints",
+        "lie on the axes",
+        "satisfy at least one constraint",
+        "satisfy all the constraints"
+      ],
+      "answer": 3,
+      "explanation": "Every constraint must hold at each of its points."
+    },
+    {
+      "q": "Where does the optimal value of the objective function occur?",
+      "options": [
+        "Outside the region",
+        "At a corner point of the feasible region",
+        "At the origin only",
+        "At the centre of the region"
+      ],
+      "answer": 1,
+      "explanation": "This is the corner point theorem."
+    },
+    {
+      "q": "The non-negativity constraints are ____.",
+      "options": [
+        "x + y = 0",
+        "x = y",
+        "x ≤ 0, y ≤ 0",
+        "x ≥ 0, y ≥ 0"
+      ],
+      "answer": 3,
+      "explanation": "Variables cannot be negative."
+    },
+    {
+      "q": "For Z = 3x + 4y, the corner points are (0, 0), (2, 0) and (0, 3). What is the maximum value of Z?",
+      "options": [
+        "12",
+        "0",
+        "6",
+        "18"
+      ],
+      "answer": 0,
+      "explanation": "Z values are 0, 6 and 12."
+    },
+    {
+      "q": "A bounded feasible region ____.",
+      "options": [
+        "has no maximum",
+        "has no minimum",
+        "is always empty",
+        "has both a maximum and a minimum"
+      ],
+      "answer": 3,
+      "explanation": "A linear function over a bounded region attains both extremes."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch01",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 1,
+  "chapter": "Chapter 1",
+  "title": "Sets",
+  "icon": "🔵",
+  "questions": [
+    {
+      "q": "If n(A) = 10, n(B) = 8 and n(A ∩ B) = 3, what is n(A ∪ B)?",
+      "options": [
+        "21",
+        "15",
+        "18",
+        "11"
+      ],
+      "answer": 1,
+      "explanation": "n(A ∪ B) = 10 + 8 − 3 = 15."
+    },
+    {
+      "q": "How many elements does the power set of a set with 3 elements have?",
+      "options": [
+        "3",
+        "8",
+        "6",
+        "9"
+      ],
+      "answer": 1,
+      "explanation": "The power set has 2ⁿ elements, so 2³ = 8."
+    },
+    {
+      "q": "If A = {1, 2, 3} and B = {3, 4}, what is A ∩ B?",
+      "options": [
+        "{1, 2}",
+        "{3}",
+        "{1, 2, 3, 4}",
+        "{4}"
+      ],
+      "answer": 1,
+      "explanation": "Only 3 is common to both."
+    },
+    {
+      "q": "How many subsets does the set {a, b} have?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "answer": 0,
+      "explanation": "2² = 4: ∅, {a}, {b}, {a, b}."
+    },
+    {
+      "q": "According to De Morgan's law, (A ∪ B)′ = ____.",
+      "options": [
+        "A ∩ B",
+        "A′ ∪ B′",
+        "A − B",
+        "A′ ∩ B′"
+      ],
+      "answer": 3,
+      "explanation": "The complement of a union is the intersection of complements."
+    },
+    {
+      "q": "If A = {1, 2, 3, 4} and B = {2, 4}, what is A − B?",
+      "options": [
+        "{2, 4}",
+        "{1, 3}",
+        "{}",
+        "{1, 2, 3, 4}"
+      ],
+      "answer": 1,
+      "explanation": "A − B contains elements in A but not in B."
+    }
+  ]
+}

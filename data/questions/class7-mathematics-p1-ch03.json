@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p1-ch03",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 3,
+  "chapter": "Chapter 3",
+  "title": "A Peek Beyond the Point",
+  "icon": "🔹",
+  "questions": [
+    {
+      "q": "0.375 written as a fraction in simplest form is ____.",
+      "options": [
+        "3/8",
+        "5/8",
+        "3/5",
+        "375/100"
+      ],
+      "answer": 0,
+      "explanation": "0.375 = 375/1000 = 3/8."
+    },
+    {
+      "q": "Which is the correct ascending order of 0.3, 0.03, 0.303, 0.033?",
+      "options": [
+        "0.03, 0.033, 0.3, 0.303",
+        "0.033, 0.03, 0.303, 0.3",
+        "0.03, 0.3, 0.033, 0.303",
+        "0.3, 0.303, 0.03, 0.033"
+      ],
+      "answer": 0,
+      "explanation": "Compare place by place: 0.03 < 0.033 < 0.3 < 0.303."
+    },
+    {
+      "q": "What is 0.5 + 0.25?",
+      "options": [
+        "0.30",
+        "0.55",
+        "0.75",
+        "0.525"
+      ],
+      "answer": 2,
+      "explanation": "0.50 + 0.25 = 0.75."
+    },
+    {
+      "q": "What is the place value of 7 in 3.472?",
+      "options": [
+        "Units",
+        "Hundredths",
+        "Thousandths",
+        "Tenths"
+      ],
+      "answer": 1,
+      "explanation": "In 3.472 the digits after the point are tenths 4, hundredths 7, thousandths 2."
+    },
+    {
+      "q": "What is 2.5 × 4?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12.5"
+      ],
+      "answer": 2,
+      "explanation": "2.5 × 4 = 10."
+    },
+    {
+      "q": "What is 3/4 as a decimal?",
+      "options": [
+        "0.75",
+        "0.25",
+        "0.80",
+        "0.34"
+      ],
+      "answer": 0,
+      "explanation": "3 ÷ 4 = 0.75."
+    }
+  ]
+}

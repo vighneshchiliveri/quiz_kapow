@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch02",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 2,
+  "chapter": "Chapter 2",
+  "title": "Relations and Functions",
+  "icon": "🔗",
+  "questions": [
+    {
+      "q": "If n(A) = 3 and n(B) = 4, how many elements are in A × B?",
+      "options": [
+        "64",
+        "7",
+        "12",
+        "81"
+      ],
+      "answer": 2,
+      "explanation": "n(A × B) = 3 × 4 = 12."
+    },
+    {
+      "q": "What is the domain of f(x) = √(x − 2)?",
+      "options": [
+        "x ≤ 2",
+        "x ≥ 2",
+        "x > 2",
+        "All real numbers"
+      ],
+      "answer": 1,
+      "explanation": "The expression under the root must be non-negative."
+    },
+    {
+      "q": "What is the range of f(x) = x² for x ∈ ℝ?",
+      "options": [
+        "(−∞, ∞)",
+        "(0, ∞)",
+        "(−∞, 0]",
+        "[0, ∞)"
+      ],
+      "answer": 3,
+      "explanation": "Squares are never negative."
+    },
+    {
+      "q": "If A has 2 elements and B has 3 elements, how many relations from A to B are there?",
+      "options": [
+        "64",
+        "8",
+        "9",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "Relations are subsets of A × B, and 2⁶ = 64."
+    },
+    {
+      "q": "If f(x) = 2x + 1, what is f(3)?",
+      "options": [
+        "9",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "2(3) + 1 = 7."
+    },
+    {
+      "q": "A function from A to B assigns ____.",
+      "options": [
+        "nothing",
+        "exactly one element of B to each element of A",
+        "at least one element of B to each element of A",
+        "two elements of A to B"
+      ],
+      "answer": 1,
+      "explanation": "Every input has exactly one output."
+    }
+  ]
+}

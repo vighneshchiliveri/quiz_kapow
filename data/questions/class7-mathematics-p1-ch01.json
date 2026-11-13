@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p1-ch01",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 1,
+  "chapter": "Chapter 1",
+  "title": "Large Numbers Around Us",
+  "icon": "🌐",
+  "questions": [
+    {
+      "q": "How many thousands make one lakh?",
+      "options": [
+        "100",
+        "1000",
+        "10",
+        "10,000"
+      ],
+      "answer": 0,
+      "explanation": "1 lakh = 1,00,000 = 100 × 1000."
+    },
+    {
+      "q": "1 crore equals how many lakhs?",
+      "options": [
+        "100",
+        "10,000",
+        "1000",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "1 crore = 1,00,00,000 = 100 lakh."
+    },
+    {
+      "q": "10 million is equal to ____.",
+      "options": [
+        "1 crore",
+        "10 crore",
+        "1 lakh",
+        "10 lakh"
+      ],
+      "answer": 0,
+      "explanation": "10 million = 1,00,00,000 = 1 crore."
+    },
+    {
+      "q": "What is the smallest 8-digit number?",
+      "options": [
+        "1,00,00,000",
+        "1,00,000",
+        "99,99,999",
+        "10,00,000"
+      ],
+      "answer": 0,
+      "explanation": "It is 1 crore."
+    },
+    {
+      "q": "What is 99,999 + 1?",
+      "options": [
+        "9,99,999",
+        "10,000",
+        "1,00,000",
+        "1,000"
+      ],
+      "answer": 2,
+      "explanation": "Adding 1 to the greatest 5-digit number gives 1 lakh."
+    },
+    {
+      "q": "4,86,000 rounded to the nearest lakh is ____.",
+      "options": [
+        "4,00,000",
+        "4,90,000",
+        "5,00,000",
+        "6,00,000"
+      ],
+      "answer": 2,
+      "explanation": "86,000 is more than half a lakh, so round up to 5 lakh."
+    }
+  ]
+}

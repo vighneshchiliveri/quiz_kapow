@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p2-ch01",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 2",
+  "order": 1,
+  "chapter": "Chapter 1",
+  "title": "Geometric Twins",
+  "icon": "👯",
+  "questions": [
+    {
+      "q": "Two figures with exactly the same shape and size are ____.",
+      "options": [
+        "congruent",
+        "similar only",
+        "parallel",
+        "symmetric"
+      ],
+      "answer": 0,
+      "explanation": "Congruent figures overlap exactly."
+    },
+    {
+      "q": "Which rule says two triangles are congruent if three sides of one equal three sides of the other?",
+      "options": [
+        "SSS",
+        "AAA",
+        "AAS only",
+        "SSA"
+      ],
+      "answer": 0,
+      "explanation": "SSS stands for Side-Side-Side."
+    },
+    {
+      "q": "In the SAS rule, the angle must be ____.",
+      "options": [
+        "outside the triangle",
+        "opposite one side",
+        "any angle",
+        "between the two given sides"
+      ],
+      "answer": 3,
+      "explanation": "It must be the included angle."
+    },
+    {
+      "q": "Which is NOT a rule for congruence of triangles?",
+      "options": [
+        "SSS",
+        "ASA",
+        "SAS",
+        "AAA"
+      ],
+      "answer": 3,
+      "explanation": "Equal angles alone give a similar triangle, not necessarily a congruent one."
+    },
+    {
+      "q": "Two squares with side 5 cm each are ____.",
+      "options": [
+        "congruent",
+        "only similar",
+        "not congruent",
+        "different in shape"
+      ],
+      "answer": 0,
+      "explanation": "Same shape and same size means congruent."
+    },
+    {
+      "q": "In congruent triangles, corresponding parts are ____.",
+      "options": [
+        "parallel",
+        "different",
+        "equal",
+        "double"
+      ],
+      "answer": 2,
+      "explanation": "Corresponding sides and angles are equal."
+    }
+  ]
+}

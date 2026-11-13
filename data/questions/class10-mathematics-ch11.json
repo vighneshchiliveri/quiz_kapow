@@ -1,0 +1,78 @@
+{
+  "id": "class10-mathematics-ch11",
+  "class": "10",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 11,
+  "chapter": "Chapter 11",
+  "title": "Areas Related to Circles",
+  "icon": "🥧",
+  "questions": [
+    {
+      "q": "What is the area of a circle of radius 7 cm (π = 22/7)?",
+      "options": [
+        "22 cm²",
+        "49 cm²",
+        "154 cm²",
+        "44 cm²"
+      ],
+      "answer": 2,
+      "explanation": "πr² = 154."
+    },
+    {
+      "q": "What is the area of a sector of angle 90° in a circle of radius 14 cm (π = 22/7)?",
+      "options": [
+        "154 cm²",
+        "616 cm²",
+        "308 cm²",
+        "77 cm²"
+      ],
+      "answer": 0,
+      "explanation": "(90/360) × 22/7 × 14² = 154."
+    },
+    {
+      "q": "What is the length of an arc of a 60° sector with radius 21 cm (π = 22/7)?",
+      "options": [
+        "44 cm",
+        "22 cm",
+        "11 cm",
+        "66 cm"
+      ],
+      "answer": 1,
+      "explanation": "(60/360) × 2 × 22/7 × 21 = 22."
+    },
+    {
+      "q": "What is the area of a semicircle of radius 14 cm (π = 22/7)?",
+      "options": [
+        "44 cm²",
+        "154 cm²",
+        "308 cm²",
+        "616 cm²"
+      ],
+      "answer": 2,
+      "explanation": "½ × 22/7 × 196 = 308."
+    },
+    {
+      "q": "The area of a quadrant of a circle of radius 7 cm is ____ (π = 22/7).",
+      "options": [
+        "38.5 cm²",
+        "154 cm²",
+        "19.25 cm²",
+        "77 cm²"
+      ],
+      "answer": 0,
+      "explanation": "¼ × 154 = 38.5."
+    },
+    {
+      "q": "The formula for the area of a sector with angle θ is ____.",
+      "options": [
+        "(360/θ) × πr²",
+        "θ × πr²",
+        "(θ/360) × πr²",
+        "(θ/360) × 2πr"
+      ],
+      "answer": 2,
+      "explanation": "A sector is a fraction θ/360 of the circle."
+    }
+  ]
+}

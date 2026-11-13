@@ -1,0 +1,78 @@
+{
+  "id": "class9-mathematics-ch01",
+  "class": "9",
+  "subject": "Mathematics",
+  "book": "Ganita Manjari Part 1",
+  "order": 1,
+  "chapter": "Chapter 1",
+  "title": "Orienting Yourself: The Use of Coordinates",
+  "icon": "🧭",
+  "questions": [
+    {
+      "q": "In which quadrant does the point (3, −2) lie?",
+      "options": [
+        "Third",
+        "First",
+        "Fourth",
+        "Second"
+      ],
+      "answer": 2,
+      "explanation": "x is positive and y is negative, which is the fourth quadrant."
+    },
+    {
+      "q": "What is the distance between (0, 0) and (3, 4)?",
+      "options": [
+        "7",
+        "12",
+        "4",
+        "5"
+      ],
+      "answer": 3,
+      "explanation": "√(3² + 4²) = √25 = 5."
+    },
+    {
+      "q": "What is the midpoint of (2, 4) and (6, 8)?",
+      "options": [
+        "(2, 2)",
+        "(3, 5)",
+        "(8, 12)",
+        "(4, 6)"
+      ],
+      "answer": 3,
+      "explanation": "Average the coordinates: ((2 + 6)/2, (4 + 8)/2)."
+    },
+    {
+      "q": "The point (0, 5) lies on the ____.",
+      "options": [
+        "y-axis",
+        "first quadrant",
+        "origin",
+        "x-axis"
+      ],
+      "answer": 0,
+      "explanation": "Every point with x = 0 lies on the y-axis."
+    },
+    {
+      "q": "What is the reflection of (3, 2) in the x-axis?",
+      "options": [
+        "(2, 3)",
+        "(−3, −2)",
+        "(−3, 2)",
+        "(3, −2)"
+      ],
+      "answer": 3,
+      "explanation": "Reflecting in the x-axis changes the sign of y only."
+    },
+    {
+      "q": "What is the abscissa of the point (−4, 7)?",
+      "options": [
+        "−7",
+        "3",
+        "−4",
+        "7"
+      ],
+      "answer": 2,
+      "explanation": "The abscissa is the x-coordinate."
+    }
+  ]
+}

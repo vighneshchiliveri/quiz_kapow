@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch08",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 8,
+  "chapter": "Chapter 8",
+  "title": "Sequences and Series",
+  "icon": "➗",
+  "questions": [
+    {
+      "q": "What is the sum 1 + 2 + 3 + … + 10?",
+      "options": [
+        "45",
+        "50",
+        "55",
+        "100"
+      ],
+      "answer": 2,
+      "explanation": "n(n + 1)/2 = 55."
+    },
+    {
+      "q": "What is the sum of the infinite GP 1 + 1/2 + 1/4 + …?",
+      "options": [
+        "3/2",
+        "2",
+        "4",
+        "1"
+      ],
+      "answer": 1,
+      "explanation": "a/(1 − r) = 1/(1 − 1/2) = 2."
+    },
+    {
+      "q": "What is the geometric mean of 4 and 16?",
+      "options": [
+        "64",
+        "10",
+        "9",
+        "8"
+      ],
+      "answer": 3,
+      "explanation": "√(4 × 16) = 8."
+    },
+    {
+      "q": "In an AP with a = 2 and d = 3, what is the 5th term?",
+      "options": [
+        "12",
+        "14",
+        "17",
+        "11"
+      ],
+      "answer": 1,
+      "explanation": "a + 4d = 14."
+    },
+    {
+      "q": "What is the common ratio of 3, −6, 12, …?",
+      "options": [
+        "2",
+        "−2",
+        "−3",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "−6 ÷ 3 = −2."
+    },
+    {
+      "q": "For positive numbers, which inequality is true?",
+      "options": [
+        "AM < GM",
+        "AM ≥ GM",
+        "AM ≤ GM",
+        "AM = GM always"
+      ],
+      "answer": 1,
+      "explanation": "This is the AM–GM inequality."
+    }
+  ]
+}

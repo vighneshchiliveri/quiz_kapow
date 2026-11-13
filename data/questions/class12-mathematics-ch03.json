@@ -1,0 +1,78 @@
+{
+  "id": "class12-mathematics-ch03",
+  "class": "12",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 3,
+  "chapter": "Chapter 3",
+  "title": "Matrices",
+  "icon": "🟦",
+  "questions": [
+    {
+      "q": "What is the order of a matrix with 2 rows and 3 columns?",
+      "options": [
+        "2 × 3",
+        "3 × 2",
+        "6",
+        "2 × 2"
+      ],
+      "answer": 0,
+      "explanation": "Order = rows × columns."
+    },
+    {
+      "q": "(AB)ᵀ = ____.",
+      "options": [
+        "ABᵀ",
+        "BᵀAᵀ",
+        "AᵀBᵀ",
+        "AB"
+      ],
+      "answer": 1,
+      "explanation": "The transpose reverses the order."
+    },
+    {
+      "q": "A square matrix A is symmetric if ____.",
+      "options": [
+        "A² = A",
+        "Aᵀ = −A",
+        "Aᵀ = A",
+        "A = I"
+      ],
+      "answer": 2,
+      "explanation": "This is the definition of symmetric."
+    },
+    {
+      "q": "If A is 2 × 3 and B is 3 × 4, what is the order of AB?",
+      "options": [
+        "3 × 3",
+        "4 × 2",
+        "2 × 4",
+        "2 × 3"
+      ],
+      "answer": 2,
+      "explanation": "Inner dimensions match and outer ones remain."
+    },
+    {
+      "q": "The diagonal entries of a skew-symmetric matrix are ____.",
+      "options": [
+        "0",
+        "equal",
+        "negative",
+        "1"
+      ],
+      "answer": 0,
+      "explanation": "aᵢᵢ = −aᵢᵢ gives aᵢᵢ = 0."
+    },
+    {
+      "q": "For the identity matrix I, AI = ____.",
+      "options": [
+        "0",
+        "I",
+        "A²",
+        "A"
+      ],
+      "answer": 3,
+      "explanation": "I is the multiplicative identity."
+    }
+  ]
+}

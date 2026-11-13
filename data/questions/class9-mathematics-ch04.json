@@ -1,0 +1,78 @@
+{
+  "id": "class9-mathematics-ch04",
+  "class": "9",
+  "subject": "Mathematics",
+  "book": "Ganita Manjari Part 1",
+  "order": 4,
+  "chapter": "Chapter 4",
+  "title": "Exploring Algebraic Identities",
+  "icon": "🧮",
+  "questions": [
+    {
+      "q": "What is (a + b)²?",
+      "options": [
+        "2a + 2b",
+        "a² + b²",
+        "a² − 2ab + b²",
+        "a² + 2ab + b²"
+      ],
+      "answer": 3,
+      "explanation": "Expand (a + b)(a + b)."
+    },
+    {
+      "q": "What is (x − y)²?",
+      "options": [
+        "x² − 2xy + y²",
+        "x² + 2xy + y²",
+        "x² − y²",
+        "x² + y²"
+      ],
+      "answer": 0,
+      "explanation": "(x − y)² = x² − 2xy + y²."
+    },
+    {
+      "q": "What is (x + 2)(x − 2)?",
+      "options": [
+        "x² − 4x",
+        "x² − 4",
+        "x² + 4",
+        "x² − 2"
+      ],
+      "answer": 1,
+      "explanation": "This is the (a + b)(a − b) = a² − b² identity."
+    },
+    {
+      "q": "What is 103² using an identity?",
+      "options": [
+        "10309",
+        "10609 + 1",
+        "10609",
+        "10600"
+      ],
+      "answer": 2,
+      "explanation": "(100 + 3)² = 10000 + 600 + 9 = 10609."
+    },
+    {
+      "q": "If x + y = 5 and xy = 6, what is x² + y²?",
+      "options": [
+        "31",
+        "25",
+        "13",
+        "11"
+      ],
+      "answer": 2,
+      "explanation": "x² + y² = (x + y)² − 2xy = 25 − 12 = 13."
+    },
+    {
+      "q": "How do you factorise x² − 9?",
+      "options": [
+        "(x − 3)(x + 3)",
+        "(x − 3)²",
+        "(x + 3)²",
+        "(x − 9)(x + 1)"
+      ],
+      "answer": 0,
+      "explanation": "Difference of squares."
+    }
+  ]
+}

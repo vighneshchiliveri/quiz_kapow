@@ -1,0 +1,78 @@
+{
+  "id": "class6-mathematics-ch04",
+  "class": "6",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash",
+  "order": 4,
+  "chapter": "Chapter 4",
+  "title": "Data Handling and Presentation",
+  "icon": "📊",
+  "questions": [
+    {
+      "q": "In a pictograph, data is shown using ____.",
+      "options": [
+        "pictures or symbols",
+        "only lines",
+        "only tables",
+        "only numbers"
+      ],
+      "answer": 0,
+      "explanation": "A pictograph uses symbols to represent a number of items."
+    },
+    {
+      "q": "How many items does a tally group of five (four lines struck through by a fifth) show?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "The fifth line crosses the four to make a group of 5."
+    },
+    {
+      "q": "What is the mean (average) of 4, 6 and 8?",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "(4 + 6 + 8) ÷ 3 = 18 ÷ 3 = 6."
+    },
+    {
+      "q": "What is the range of the data 3, 9, 5, 12, 2?",
+      "options": [
+        "12",
+        "10",
+        "9",
+        "14"
+      ],
+      "answer": 1,
+      "explanation": "Range = greatest − smallest = 12 − 2 = 10."
+    },
+    {
+      "q": "A bar graph is mostly used to ____.",
+      "options": [
+        "count digits",
+        "measure angles",
+        "draw shapes",
+        "compare quantities"
+      ],
+      "answer": 3,
+      "explanation": "The height or length of each bar shows the value of a category."
+    },
+    {
+      "q": "The number of times a value occurs in the data is called its ____.",
+      "options": [
+        "scale",
+        "range",
+        "mean",
+        "frequency"
+      ],
+      "answer": 3,
+      "explanation": "Frequency means how often a value appears."
+    }
+  ]
+}

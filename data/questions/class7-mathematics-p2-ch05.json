@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p2-ch05",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 2",
+  "order": 5,
+  "chapter": "Chapter 5",
+  "title": "Connecting the Dots…",
+  "icon": "📈",
+  "questions": [
+    {
+      "q": "What is the mean of 5, 7, 9 and 11?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "7"
+      ],
+      "answer": 1,
+      "explanation": "(5 + 7 + 9 + 11) ÷ 4 = 32 ÷ 4 = 8."
+    },
+    {
+      "q": "What is the median of 3, 7 and 5?",
+      "options": [
+        "3",
+        "15",
+        "7",
+        "5"
+      ],
+      "answer": 3,
+      "explanation": "Sorted: 3, 5, 7. The middle value is 5."
+    },
+    {
+      "q": "What is the mode of 2, 3, 3, 4, 5?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "3 occurs most often."
+    },
+    {
+      "q": "What is the median of 2, 4, 6, 8?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "20"
+      ],
+      "answer": 0,
+      "explanation": "The middle two values are 4 and 6, so the median is their mean, 5."
+    },
+    {
+      "q": "What is the range of 12, 7, 19, 3?",
+      "options": [
+        "22",
+        "9",
+        "16",
+        "15"
+      ],
+      "answer": 2,
+      "explanation": "Range = 19 − 3 = 16."
+    },
+    {
+      "q": "Which graph is best for comparing the sales of five shops?",
+      "options": [
+        "Bar graph",
+        "Compass",
+        "Protractor",
+        "Number line"
+      ],
+      "answer": 0,
+      "explanation": "A bar graph compares values across categories."
+    }
+  ]
+}

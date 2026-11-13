@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p2-ch07",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 2",
+  "order": 7,
+  "chapter": "Chapter 7",
+  "title": "Finding the Unknown",
+  "icon": "❓",
+  "questions": [
+    {
+      "q": "Solve x + 5 = 12.",
+      "options": [
+        "x = 7",
+        "x = 17",
+        "x = 5",
+        "x = 12"
+      ],
+      "answer": 0,
+      "explanation": "Subtract 5 from both sides."
+    },
+    {
+      "q": "Solve 3x = 21.",
+      "options": [
+        "x = 18",
+        "x = 63",
+        "x = 24",
+        "x = 7"
+      ],
+      "answer": 3,
+      "explanation": "Divide both sides by 3."
+    },
+    {
+      "q": "Solve 2x − 3 = 9.",
+      "options": [
+        "x = 12",
+        "x = 3",
+        "x = 4.5",
+        "x = 6"
+      ],
+      "answer": 3,
+      "explanation": "2x = 12, so x = 6."
+    },
+    {
+      "q": "Solve x/4 = 5.",
+      "options": [
+        "x = 4",
+        "x = 20",
+        "x = 1.25",
+        "x = 9"
+      ],
+      "answer": 1,
+      "explanation": "Multiply both sides by 4."
+    },
+    {
+      "q": "Solve 5x + 2 = 27.",
+      "options": [
+        "x = 29",
+        "x = 6",
+        "x = 5",
+        "x = 4"
+      ],
+      "answer": 2,
+      "explanation": "5x = 25, so x = 5."
+    },
+    {
+      "q": "The sum of a number and 8 is 15. What is the number?",
+      "options": [
+        "7",
+        "23",
+        "8",
+        "15"
+      ],
+      "answer": 0,
+      "explanation": "x + 8 = 15, so x = 7."
+    }
+  ]
+}

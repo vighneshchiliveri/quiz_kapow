@@ -1,0 +1,78 @@
+{
+  "id": "class12-mathematics-ch05",
+  "class": "12",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 5,
+  "chapter": "Chapter 5",
+  "title": "Continuity and Differentiability",
+  "icon": "〰️",
+  "questions": [
+    {
+      "q": "A function f is continuous at x = a if ____.",
+      "options": [
+        "f is not defined near a",
+        "the limit is infinite",
+        "lim f(x) as x → a equals f(a)",
+        "f(a) is undefined"
+      ],
+      "answer": 2,
+      "explanation": "This is the definition."
+    },
+    {
+      "q": "Is f(x) = |x| differentiable at x = 0?",
+      "options": [
+        "No",
+        "Yes",
+        "Only from the right",
+        "Yes, with derivative 1"
+      ],
+      "answer": 0,
+      "explanation": "The graph has a sharp corner at 0."
+    },
+    {
+      "q": "What is d/dx (eˣ)?",
+      "options": [
+        "1/x",
+        "e",
+        "eˣ",
+        "xeˣ⁻¹"
+      ],
+      "answer": 2,
+      "explanation": "The exponential function is its own derivative."
+    },
+    {
+      "q": "What is d/dx (log x)?",
+      "options": [
+        "log x / x",
+        "1/x",
+        "eˣ",
+        "x"
+      ],
+      "answer": 1,
+      "explanation": "The derivative of ln x is 1/x."
+    },
+    {
+      "q": "What is d/dx sin(2x)?",
+      "options": [
+        "2 sin 2x",
+        "cos 2x",
+        "−2 cos 2x",
+        "2 cos 2x"
+      ],
+      "answer": 3,
+      "explanation": "By the chain rule."
+    },
+    {
+      "q": "What is d/dx (tan x)?",
+      "options": [
+        "−cosec²x",
+        "sec x tan x",
+        "cot x",
+        "sec²x"
+      ],
+      "answer": 3,
+      "explanation": "This is a standard derivative."
+    }
+  ]
+}

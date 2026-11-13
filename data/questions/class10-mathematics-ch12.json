@@ -1,0 +1,78 @@
+{
+  "id": "class10-mathematics-ch12",
+  "class": "10",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 12,
+  "chapter": "Chapter 12",
+  "title": "Surface Areas and Volumes",
+  "icon": "🧊",
+  "questions": [
+    {
+      "q": "What is the volume of a cylinder of radius 7 cm and height 10 cm (π = 22/7)?",
+      "options": [
+        "1540 cm³",
+        "440 cm³",
+        "3080 cm³",
+        "154 cm³"
+      ],
+      "answer": 0,
+      "explanation": "πr²h = 22/7 × 49 × 10 = 1540."
+    },
+    {
+      "q": "What is the volume of a cone of radius 7 cm and height 3 cm (π = 22/7)?",
+      "options": [
+        "154 cm³",
+        "22 cm³",
+        "49 cm³",
+        "462 cm³"
+      ],
+      "answer": 0,
+      "explanation": "⅓πr²h = ⅓ × 22/7 × 49 × 3 = 154."
+    },
+    {
+      "q": "What is the surface area of a sphere of radius r?",
+      "options": [
+        "4πr²",
+        "πr²",
+        "(4/3)πr³",
+        "2πr²"
+      ],
+      "answer": 0,
+      "explanation": "Surface area of a sphere is 4πr²."
+    },
+    {
+      "q": "What is the total surface area of a cube of side a?",
+      "options": [
+        "4a²",
+        "a³",
+        "6a²",
+        "12a"
+      ],
+      "answer": 2,
+      "explanation": "A cube has 6 square faces."
+    },
+    {
+      "q": "What is the curved surface area of a cylinder of radius 7 cm and height 10 cm (π = 22/7)?",
+      "options": [
+        "1540 cm²",
+        "220 cm²",
+        "440 cm²",
+        "154 cm²"
+      ],
+      "answer": 2,
+      "explanation": "2πrh = 2 × 22/7 × 7 × 10 = 440."
+    },
+    {
+      "q": "What is the total surface area of a solid hemisphere of radius r?",
+      "options": [
+        "πr²",
+        "3πr²",
+        "2πr²",
+        "4πr²"
+      ],
+      "answer": 1,
+      "explanation": "Curved surface 2πr² plus flat base πr²."
+    }
+  ]
+}

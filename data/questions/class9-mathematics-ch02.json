@@ -1,0 +1,78 @@
+{
+  "id": "class9-mathematics-ch02",
+  "class": "9",
+  "subject": "Mathematics",
+  "book": "Ganita Manjari Part 1",
+  "order": 2,
+  "chapter": "Chapter 2",
+  "title": "Introduction to Linear Polynomials",
+  "icon": "📈",
+  "questions": [
+    {
+      "q": "What is the degree of the polynomial 3x + 5?",
+      "options": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "The highest power of x is 1."
+    },
+    {
+      "q": "What is the zero of the polynomial 2x − 6?",
+      "options": [
+        "6",
+        "3",
+        "2",
+        "−3"
+      ],
+      "answer": 1,
+      "explanation": "2x − 6 = 0 gives x = 3."
+    },
+    {
+      "q": "If p(x) = 4x − 1, what is p(2)?",
+      "options": [
+        "8",
+        "5",
+        "7",
+        "9"
+      ],
+      "answer": 2,
+      "explanation": "4(2) − 1 = 7."
+    },
+    {
+      "q": "The graph of y = 2x + 1 is ____.",
+      "options": [
+        "a parabola",
+        "a circle",
+        "a straight line",
+        "a pair of lines"
+      ],
+      "answer": 2,
+      "explanation": "A linear polynomial gives a straight-line graph."
+    },
+    {
+      "q": "What is the zero of x + 7?",
+      "options": [
+        "1",
+        "7",
+        "−7",
+        "0"
+      ],
+      "answer": 2,
+      "explanation": "x + 7 = 0 gives x = −7."
+    },
+    {
+      "q": "In y = mx + c, the constant c is the ____.",
+      "options": [
+        "slope",
+        "x-intercept",
+        "y-intercept",
+        "origin"
+      ],
+      "answer": 2,
+      "explanation": "c is the value of y when x = 0."
+    }
+  ]
+}

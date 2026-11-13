@@ -1,0 +1,78 @@
+{
+  "id": "class8-mathematics-p1-ch07",
+  "class": "8",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 7,
+  "chapter": "Chapter 7",
+  "title": "Proportional Reasoning-1",
+  "icon": "⚖️",
+  "questions": [
+    {
+      "q": "What is the ratio 12 : 18 in simplest form?",
+      "options": [
+        "6 : 9 only",
+        "2 : 3",
+        "4 : 5",
+        "3 : 2"
+      ],
+      "answer": 1,
+      "explanation": "Divide both by 6."
+    },
+    {
+      "q": "If 5 pens cost ₹40, what do 8 pens cost?",
+      "options": [
+        "₹56",
+        "₹64",
+        "₹80",
+        "₹48"
+      ],
+      "answer": 1,
+      "explanation": "One pen costs ₹8, so 8 pens cost ₹64."
+    },
+    {
+      "q": "Divide ₹100 in the ratio 2 : 3. What is the larger share?",
+      "options": [
+        "₹70",
+        "₹60",
+        "₹40",
+        "₹50"
+      ],
+      "answer": 1,
+      "explanation": "3 out of 5 parts: 3/5 × 100 = ₹60."
+    },
+    {
+      "q": "In direct proportion, when one quantity increases, the other ____.",
+      "options": [
+        "decreases",
+        "increases in the same ratio",
+        "becomes zero",
+        "stays the same"
+      ],
+      "answer": 1,
+      "explanation": "Direct proportion means both change by the same factor."
+    },
+    {
+      "q": "If 1 kg of sugar costs ₹60, what do 2.5 kg cost?",
+      "options": [
+        "₹135",
+        "₹180",
+        "₹150",
+        "₹120"
+      ],
+      "answer": 2,
+      "explanation": "60 × 2.5 = ₹150."
+    },
+    {
+      "q": "On a map with scale 1 : 100, a length of 5 cm shows an actual length of ____.",
+      "options": [
+        "5 m",
+        "0.5 m",
+        "500 m",
+        "50 cm"
+      ],
+      "answer": 0,
+      "explanation": "5 × 100 = 500 cm = 5 m."
+    }
+  ]
+}

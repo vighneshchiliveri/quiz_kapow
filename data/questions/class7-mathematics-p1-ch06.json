@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p1-ch06",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 6,
+  "chapter": "Chapter 6",
+  "title": "Number Play",
+  "icon": "🎯",
+  "questions": [
+    {
+      "q": "The sum of three consecutive numbers is always divisible by ____.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "n + (n+1) + (n+2) = 3n + 3 = 3(n + 1)."
+    },
+    {
+      "q": "A number is divisible by 3 if ____.",
+      "options": [
+        "it is odd",
+        "its last digit is even",
+        "its last digit is 3",
+        "the sum of its digits is divisible by 3"
+      ],
+      "answer": 3,
+      "explanation": "This is the divisibility rule for 3."
+    },
+    {
+      "q": "Which number is divisible by 9?",
+      "options": [
+        "729",
+        "731",
+        "842",
+        "955"
+      ],
+      "answer": 0,
+      "explanation": "7 + 2 + 9 = 18, which is divisible by 9."
+    },
+    {
+      "q": "A number is divisible by 4 if its last two digits form a number divisible by ____.",
+      "options": [
+        "5",
+        "8",
+        "4",
+        "2"
+      ],
+      "answer": 2,
+      "explanation": "100 is divisible by 4, so only the last two digits matter."
+    },
+    {
+      "q": "What is the sum of an even and an odd number?",
+      "options": [
+        "Odd",
+        "Even",
+        "Zero",
+        "Prime"
+      ],
+      "answer": 0,
+      "explanation": "For example 4 + 3 = 7, which is odd."
+    },
+    {
+      "q": "What is the sum of the first 6 odd numbers?",
+      "options": [
+        "30",
+        "21",
+        "36",
+        "42"
+      ],
+      "answer": 2,
+      "explanation": "The sum of the first n odd numbers is n², and 6² = 36."
+    }
+  ]
+}

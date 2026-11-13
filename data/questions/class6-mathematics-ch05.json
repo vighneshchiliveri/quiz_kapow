@@ -1,0 +1,78 @@
+{
+  "id": "class6-mathematics-ch05",
+  "class": "6",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash",
+  "order": 5,
+  "chapter": "Chapter 5",
+  "title": "Prime Time",
+  "icon": "🔑",
+  "questions": [
+    {
+      "q": "What is the smallest prime number?",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "answer": 2,
+      "explanation": "2 has exactly two factors, 1 and 2, and it is the smallest prime."
+    },
+    {
+      "q": "Which of these numbers is prime?",
+      "options": [
+        "39",
+        "29",
+        "21",
+        "27"
+      ],
+      "answer": 1,
+      "explanation": "29 has only the factors 1 and 29. The others are divisible by 3."
+    },
+    {
+      "q": "What is the prime factorisation of 36?",
+      "options": [
+        "2³ × 3",
+        "2 × 3 × 6",
+        "4 × 9",
+        "2² × 3²"
+      ],
+      "answer": 3,
+      "explanation": "36 = 2 × 2 × 3 × 3."
+    },
+    {
+      "q": "The number 1 is ____.",
+      "options": [
+        "neither prime nor composite",
+        "composite",
+        "both prime and composite",
+        "prime"
+      ],
+      "answer": 0,
+      "explanation": "1 has only one factor, so it is neither prime nor composite."
+    },
+    {
+      "q": "Which pair is a pair of twin primes?",
+      "options": [
+        "11 and 13",
+        "13 and 15",
+        "7 and 11",
+        "17 and 21"
+      ],
+      "answer": 0,
+      "explanation": "Twin primes differ by 2 and are both prime. 11 and 13 qualify."
+    },
+    {
+      "q": "Which pair of numbers is co-prime?",
+      "options": [
+        "8 and 15",
+        "12 and 18",
+        "6 and 9",
+        "10 and 15"
+      ],
+      "answer": 0,
+      "explanation": "8 and 15 have no common factor other than 1."
+    }
+  ]
+}

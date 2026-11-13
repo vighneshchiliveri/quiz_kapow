@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p1-ch04",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 4,
+  "chapter": "Chapter 4",
+  "title": "Expressions using Letter-Numbers",
+  "icon": "🔤",
+  "questions": [
+    {
+      "q": "Which expression means \"7 more than twice a number x\"?",
+      "options": [
+        "2x + 7",
+        "7x + 2",
+        "x + 14",
+        "2(x + 7)"
+      ],
+      "answer": 0,
+      "explanation": "Twice x is 2x, and 7 more gives 2x + 7."
+    },
+    {
+      "q": "What is the value of 3a − 2b + c when a = 2, b = 1, c = 4?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": 2,
+      "explanation": "3(2) − 2(1) + 4 = 6 − 2 + 4 = 8."
+    },
+    {
+      "q": "What is the perimeter of a square of side a?",
+      "options": [
+        "a²",
+        "4a",
+        "2a",
+        "a + 4"
+      ],
+      "answer": 1,
+      "explanation": "A square has 4 equal sides."
+    },
+    {
+      "q": "Which pair are like terms?",
+      "options": [
+        "3x and 5y",
+        "4 and 4x",
+        "2x and x²",
+        "3x and 5x"
+      ],
+      "answer": 3,
+      "explanation": "Like terms have the same letter part."
+    },
+    {
+      "q": "Simplify 4n + 3n.",
+      "options": [
+        "7n²",
+        "7n",
+        "n",
+        "12n"
+      ],
+      "answer": 1,
+      "explanation": "Add the coefficients: 4 + 3 = 7."
+    },
+    {
+      "q": "If n is a number, which expression gives the next number?",
+      "options": [
+        "n + 1",
+        "n²",
+        "2n",
+        "n − 1"
+      ],
+      "answer": 0,
+      "explanation": "The successor of n is n + 1."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch06",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 6,
+  "chapter": "Chapter 6",
+  "title": "Permutations and Combinations",
+  "icon": "🎰",
+  "questions": [
+    {
+      "q": "What is 5!?",
+      "options": [
+        "60",
+        "24",
+        "120",
+        "25"
+      ],
+      "answer": 2,
+      "explanation": "5 × 4 × 3 × 2 × 1 = 120."
+    },
+    {
+      "q": "What is ⁵P₂?",
+      "options": [
+        "25",
+        "10",
+        "40",
+        "20"
+      ],
+      "answer": 3,
+      "explanation": "5 × 4 = 20."
+    },
+    {
+      "q": "What is ⁵C₂?",
+      "options": [
+        "25",
+        "10",
+        "5",
+        "20"
+      ],
+      "answer": 1,
+      "explanation": "5!/(2! × 3!) = 10."
+    },
+    {
+      "q": "In how many ways can the letters of the word ABC be arranged?",
+      "options": [
+        "6",
+        "3",
+        "9",
+        "12"
+      ],
+      "answer": 0,
+      "explanation": "3! = 6."
+    },
+    {
+      "q": "Which of these is true?",
+      "options": [
+        "⁸C₃ = ⁸C₅",
+        "⁸C₃ = ⁸C₇",
+        "⁸C₃ = ⁸C₄",
+        "⁸C₃ = ⁸C₆"
+      ],
+      "answer": 0,
+      "explanation": "ⁿCᵣ = ⁿCₙ₋ᵣ."
+    },
+    {
+      "q": "In how many ways can the letters of the word LEVEL be arranged?",
+      "options": [
+        "120",
+        "15",
+        "60",
+        "30"
+      ],
+      "answer": 3,
+      "explanation": "5!/(2! × 2!) = 30."
+    }
+  ]
+}

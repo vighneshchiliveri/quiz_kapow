@@ -1,0 +1,78 @@
+{
+  "id": "class6-mathematics-ch06",
+  "class": "6",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash",
+  "order": 6,
+  "chapter": "Chapter 6",
+  "title": "Perimeter and Area",
+  "icon": "📏",
+  "questions": [
+    {
+      "q": "What is the perimeter of a square with side 7 cm?",
+      "options": [
+        "49 cm",
+        "28 cm",
+        "14 cm",
+        "21 cm"
+      ],
+      "answer": 1,
+      "explanation": "Perimeter = 4 × side = 4 × 7 = 28 cm."
+    },
+    {
+      "q": "What is the area of a rectangle 8 cm long and 5 cm wide?",
+      "options": [
+        "45 cm²",
+        "13 cm²",
+        "26 cm²",
+        "40 cm²"
+      ],
+      "answer": 3,
+      "explanation": "Area = length × breadth = 8 × 5 = 40 cm²."
+    },
+    {
+      "q": "What is the perimeter of a rectangle with length 10 cm and breadth 4 cm?",
+      "options": [
+        "24 cm",
+        "40 cm",
+        "14 cm",
+        "28 cm"
+      ],
+      "answer": 3,
+      "explanation": "Perimeter = 2 × (10 + 4) = 28 cm."
+    },
+    {
+      "q": "What is the area of a square of side 9 m?",
+      "options": [
+        "36 m²",
+        "81 m²",
+        "72 m²",
+        "18 m²"
+      ],
+      "answer": 1,
+      "explanation": "Area = side × side = 9 × 9 = 81 m²."
+    },
+    {
+      "q": "A rectangle has an area of 48 cm² and a length of 8 cm. What is its breadth?",
+      "options": [
+        "7 cm",
+        "5 cm",
+        "6 cm",
+        "8 cm"
+      ],
+      "answer": 2,
+      "explanation": "Breadth = area ÷ length = 48 ÷ 8 = 6 cm."
+    },
+    {
+      "q": "What is the area of a triangle with base 6 cm and height 4 cm?",
+      "options": [
+        "24 cm²",
+        "20 cm²",
+        "10 cm²",
+        "12 cm²"
+      ],
+      "answer": 3,
+      "explanation": "Area = ½ × base × height = ½ × 6 × 4 = 12 cm²."
+    }
+  ]
+}

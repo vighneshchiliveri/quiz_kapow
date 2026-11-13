@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch05",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 5,
+  "chapter": "Chapter 5",
+  "title": "Linear Inequalities",
+  "icon": "↕️",
+  "questions": [
+    {
+      "q": "What happens to the inequality sign when both sides are multiplied by a negative number?",
+      "options": [
+        "It reverses",
+        "It becomes equal",
+        "It stays the same",
+        "It disappears"
+      ],
+      "answer": 0,
+      "explanation": "For example, 2 < 3 but −2 > −3."
+    },
+    {
+      "q": "What is the solution of 2x + 3 > 7?",
+      "options": [
+        "x > 2",
+        "x > 4",
+        "x > 5",
+        "x < 2"
+      ],
+      "answer": 0,
+      "explanation": "2x > 4, so x > 2."
+    },
+    {
+      "q": "x ≥ 3 can be written as the interval ____.",
+      "options": [
+        "[3, ∞)",
+        "(−∞, 3]",
+        "(−∞, 3)",
+        "(3, ∞)"
+      ],
+      "answer": 0,
+      "explanation": "The square bracket includes 3."
+    },
+    {
+      "q": "What is the solution of |x| < 2?",
+      "options": [
+        "x > −2 or x < 2",
+        "x < 2",
+        "−2 < x < 2",
+        "x > 2 or x < −2"
+      ],
+      "answer": 2,
+      "explanation": "|x| < a means −a < x < a."
+    },
+    {
+      "q": "What is the solution of −3x < 9?",
+      "options": [
+        "x > 3",
+        "x < 3",
+        "x > −3",
+        "x < −3"
+      ],
+      "answer": 2,
+      "explanation": "Dividing by −3 reverses the inequality."
+    },
+    {
+      "q": "What is the solution of 3x − 5 ≤ 4?",
+      "options": [
+        "x ≥ 1",
+        "x ≤ 3",
+        "x ≥ 3",
+        "x ≤ 1"
+      ],
+      "answer": 1,
+      "explanation": "3x ≤ 9, so x ≤ 3."
+    }
+  ]
+}

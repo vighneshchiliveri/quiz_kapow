@@ -1,0 +1,78 @@
+{
+  "id": "class8-mathematics-p2-ch05",
+  "class": "8",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 2",
+  "order": 5,
+  "chapter": "Chapter 5",
+  "title": "Tales by Dots and Lines",
+  "icon": "📉",
+  "questions": [
+    {
+      "q": "In the point (3, 4), the x-coordinate is ____.",
+      "options": [
+        "3",
+        "4",
+        "12",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "The first number of the ordered pair is the x-coordinate."
+    },
+    {
+      "q": "What are the coordinates of the origin?",
+      "options": [
+        "(0, 0)",
+        "(1, 0)",
+        "(1, 1)",
+        "(0, 1)"
+      ],
+      "answer": 0,
+      "explanation": "The origin is where the two axes meet."
+    },
+    {
+      "q": "Which graph is best for showing change over time?",
+      "options": [
+        "Tally chart",
+        "Line graph",
+        "Pictograph",
+        "Venn diagram"
+      ],
+      "answer": 1,
+      "explanation": "A line graph shows trends over time."
+    },
+    {
+      "q": "A point on the x-axis has y-coordinate ____.",
+      "options": [
+        "equal to x",
+        "1",
+        "0",
+        "undefined"
+      ],
+      "answer": 2,
+      "explanation": "Every point on the x-axis has the form (x, 0)."
+    },
+    {
+      "q": "The point (5, 0) lies on the ____.",
+      "options": [
+        "origin",
+        "neither axis",
+        "y-axis",
+        "x-axis"
+      ],
+      "answer": 3,
+      "explanation": "The y-coordinate is 0."
+    },
+    {
+      "q": "The horizontal axis of a graph is called the ____.",
+      "options": [
+        "origin",
+        "y-axis",
+        "z-axis",
+        "x-axis"
+      ],
+      "answer": 3,
+      "explanation": "The x-axis runs left to right."
+    }
+  ]
+}

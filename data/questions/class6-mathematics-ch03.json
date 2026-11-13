@@ -1,0 +1,78 @@
+{
+  "id": "class6-mathematics-ch03",
+  "class": "6",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash",
+  "order": 3,
+  "chapter": "Chapter 3",
+  "title": "Number Play",
+  "icon": "🎲",
+  "questions": [
+    {
+      "q": "In the Collatz rule (halve if even, 3n + 1 if odd), which number follows 3?",
+      "options": [
+        "9",
+        "10",
+        "4",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "3 is odd, so 3 × 3 + 1 = 10."
+    },
+    {
+      "q": "Which of these numbers is a palindrome?",
+      "options": [
+        "121",
+        "123",
+        "213",
+        "132"
+      ],
+      "answer": 0,
+      "explanation": "121 reads the same forwards and backwards."
+    },
+    {
+      "q": "What is the smallest 3-digit palindrome?",
+      "options": [
+        "100",
+        "111",
+        "101",
+        "121"
+      ],
+      "answer": 2,
+      "explanation": "101 is the smallest 3-digit number that reads the same both ways."
+    },
+    {
+      "q": "Using the digits 1, 2, 3, 4 once each, what is the greatest 4-digit number?",
+      "options": [
+        "4321",
+        "4312",
+        "3421",
+        "1234"
+      ],
+      "answer": 0,
+      "explanation": "Arrange the digits from largest to smallest."
+    },
+    {
+      "q": "What is the sum 1 + 2 + 3 + … + 10?",
+      "options": [
+        "65",
+        "50",
+        "45",
+        "55"
+      ],
+      "answer": 3,
+      "explanation": "Pair the numbers: 5 pairs of 11 gives 55."
+    },
+    {
+      "q": "What is the smallest 4-digit number that can be made from 3, 0, 5, 7 using each digit once?",
+      "options": [
+        "3075",
+        "3057",
+        "3507",
+        "0357"
+      ],
+      "answer": 1,
+      "explanation": "A number cannot start with 0, so start with 3, then use 0, 5, 7 in increasing order."
+    }
+  ]
+}

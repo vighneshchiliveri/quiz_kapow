@@ -1,0 +1,78 @@
+{
+  "id": "class8-mathematics-p2-ch02",
+  "class": "8",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 2",
+  "order": 2,
+  "chapter": "Chapter 2",
+  "title": "The Baudhayana-Pythagoras Theorem",
+  "icon": "📐",
+  "questions": [
+    {
+      "q": "The legs of a right triangle are 3 and 4. What is the hypotenuse?",
+      "options": [
+        "5",
+        "12",
+        "6",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "3² + 4² = 25, and √25 = 5."
+    },
+    {
+      "q": "Which set is a Pythagorean triplet?",
+      "options": [
+        "4, 5, 6",
+        "5, 12, 13",
+        "6, 7, 8",
+        "2, 3, 4"
+      ],
+      "answer": 1,
+      "explanation": "5² + 12² = 169 = 13²."
+    },
+    {
+      "q": "The hypotenuse is the side ____.",
+      "options": [
+        "adjacent to the right angle",
+        "parallel to the base",
+        "shortest",
+        "opposite the right angle"
+      ],
+      "answer": 3,
+      "explanation": "It is always the longest side of a right triangle."
+    },
+    {
+      "q": "Is a triangle with sides 6, 8, 10 right-angled?",
+      "options": [
+        "Cannot say",
+        "Yes",
+        "Only if isosceles",
+        "No"
+      ],
+      "answer": 1,
+      "explanation": "6² + 8² = 100 = 10²."
+    },
+    {
+      "q": "What is the diagonal of a square of side 1?",
+      "options": [
+        "2",
+        "√3",
+        "1",
+        "√2"
+      ],
+      "answer": 3,
+      "explanation": "1² + 1² = 2, so diagonal = √2."
+    },
+    {
+      "q": "In a right triangle, hypotenuse is 13 and one leg is 5. What is the other leg?",
+      "options": [
+        "10",
+        "8",
+        "11",
+        "12"
+      ],
+      "answer": 3,
+      "explanation": "13² − 5² = 169 − 25 = 144, so the leg is 12."
+    }
+  ]
+}

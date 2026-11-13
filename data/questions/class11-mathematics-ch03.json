@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch03",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 3,
+  "chapter": "Chapter 3",
+  "title": "Trigonometric Functions",
+  "icon": "🌊",
+  "questions": [
+    {
+      "q": "π radians equals ____.",
+      "options": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "answer": 0,
+      "explanation": "π rad = 180°."
+    },
+    {
+      "q": "60° in radians is ____.",
+      "options": [
+        "π/2",
+        "π/6",
+        "π/3",
+        "2π/3"
+      ],
+      "answer": 2,
+      "explanation": "60 × π/180 = π/3."
+    },
+    {
+      "q": "sin 2A = ____.",
+      "options": [
+        "sin²A − cos²A",
+        "2 sin A",
+        "2 sin A cos A",
+        "2 cos A"
+      ],
+      "answer": 2,
+      "explanation": "This is the double angle formula."
+    },
+    {
+      "q": "What is the period of sin x?",
+      "options": [
+        "4π",
+        "π/2",
+        "2π",
+        "π"
+      ],
+      "answer": 2,
+      "explanation": "sin(x + 2π) = sin x."
+    },
+    {
+      "q": "cos(−θ) = ____.",
+      "options": [
+        "−cos θ",
+        "cos θ",
+        "−sin θ",
+        "sin θ"
+      ],
+      "answer": 1,
+      "explanation": "Cosine is an even function."
+    },
+    {
+      "q": "What is the range of sin x?",
+      "options": [
+        "(−∞, ∞)",
+        "[0, 1]",
+        "[−1, 1]",
+        "(−1, 1)"
+      ],
+      "answer": 2,
+      "explanation": "The sine function never goes beyond −1 and 1."
+    }
+  ]
+}

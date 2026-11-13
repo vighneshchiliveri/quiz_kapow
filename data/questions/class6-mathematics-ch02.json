@@ -1,0 +1,78 @@
+{
+  "id": "class6-mathematics-ch02",
+  "class": "6",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash",
+  "order": 2,
+  "chapter": "Chapter 2",
+  "title": "Lines and Angles",
+  "icon": "📐",
+  "questions": [
+    {
+      "q": "How many degrees are there in a straight angle?",
+      "options": [
+        "120°",
+        "360°",
+        "90°",
+        "180°"
+      ],
+      "answer": 3,
+      "explanation": "A straight angle forms a straight line and measures 180°."
+    },
+    {
+      "q": "An angle that measures less than 90° is called ____.",
+      "options": [
+        "acute",
+        "reflex",
+        "obtuse",
+        "right"
+      ],
+      "answer": 0,
+      "explanation": "Acute angles lie between 0° and 90°."
+    },
+    {
+      "q": "An angle of 135° is a(n) ____ angle.",
+      "options": [
+        "straight",
+        "right",
+        "obtuse",
+        "acute"
+      ],
+      "answer": 2,
+      "explanation": "Obtuse angles lie between 90° and 180°."
+    },
+    {
+      "q": "How many right angles make one complete turn?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "4 × 90° = 360°, a full turn."
+    },
+    {
+      "q": "Two lines in a plane that never meet, however far extended, are called ____ lines.",
+      "options": [
+        "intersecting",
+        "curved",
+        "perpendicular",
+        "parallel"
+      ],
+      "answer": 3,
+      "explanation": "Parallel lines always stay the same distance apart and never meet."
+    },
+    {
+      "q": "How many end points does a ray have?",
+      "options": [
+        "0",
+        "3",
+        "1",
+        "2"
+      ],
+      "answer": 2,
+      "explanation": "A ray starts at one point and goes on endlessly in one direction."
+    }
+  ]
+}

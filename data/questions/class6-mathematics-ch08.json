@@ -1,0 +1,78 @@
+{
+  "id": "class6-mathematics-ch08",
+  "class": "6",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash",
+  "order": 8,
+  "chapter": "Chapter 8",
+  "title": "Playing with Constructions",
+  "icon": "✏️",
+  "questions": [
+    {
+      "q": "Which instrument is used to draw a circle?",
+      "options": [
+        "Ruler",
+        "Compass",
+        "Protractor",
+        "Set square"
+      ],
+      "answer": 1,
+      "explanation": "A compass draws circles and arcs."
+    },
+    {
+      "q": "The radius of a circle is the distance from ____.",
+      "options": [
+        "the centre to outside the circle",
+        "one edge to the other through the centre",
+        "the centre to any point on the circle",
+        "one point on the circle to another"
+      ],
+      "answer": 2,
+      "explanation": "All points on a circle are the same distance from the centre."
+    },
+    {
+      "q": "If the radius of a circle is 5 cm, its diameter is ____.",
+      "options": [
+        "5 cm",
+        "10 cm",
+        "2.5 cm",
+        "15 cm"
+      ],
+      "answer": 1,
+      "explanation": "Diameter = 2 × radius = 10 cm."
+    },
+    {
+      "q": "What is the measure of each angle of a rectangle?",
+      "options": [
+        "180°",
+        "90°",
+        "60°",
+        "45°"
+      ],
+      "answer": 1,
+      "explanation": "All four angles of a rectangle are right angles."
+    },
+    {
+      "q": "Which instrument is used to measure an angle?",
+      "options": [
+        "Divider",
+        "Protractor",
+        "Ruler",
+        "Compass"
+      ],
+      "answer": 1,
+      "explanation": "A protractor measures angles in degrees."
+    },
+    {
+      "q": "A square has ____.",
+      "options": [
+        "2 pairs of unequal sides",
+        "only 1 right angle",
+        "3 equal sides",
+        "4 equal sides and 4 right angles"
+      ],
+      "answer": 3,
+      "explanation": "A square is a regular quadrilateral."
+    }
+  ]
+}

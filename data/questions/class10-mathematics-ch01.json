@@ -1,0 +1,78 @@
+{
+  "id": "class10-mathematics-ch01",
+  "class": "10",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 1,
+  "chapter": "Chapter 1",
+  "title": "Real Numbers",
+  "icon": "🔢",
+  "questions": [
+    {
+      "q": "What is the HCF of 26 and 91?",
+      "options": [
+        "26",
+        "7",
+        "13",
+        "2"
+      ],
+      "answer": 2,
+      "explanation": "26 = 2 × 13 and 91 = 7 × 13."
+    },
+    {
+      "q": "The Fundamental Theorem of Arithmetic says every composite number ____.",
+      "options": [
+        "is always a perfect square",
+        "is always even",
+        "cannot be factorised",
+        "can be expressed as a product of primes in a unique way"
+      ],
+      "answer": 3,
+      "explanation": "Unique prime factorisation, apart from the order of factors."
+    },
+    {
+      "q": "Which of these is irrational?",
+      "options": [
+        "22/7",
+        "0.25",
+        "√81",
+        "2 + √3"
+      ],
+      "answer": 3,
+      "explanation": "The sum of a rational and an irrational number is irrational."
+    },
+    {
+      "q": "What is the LCM of 6 and 20?",
+      "options": [
+        "60",
+        "40",
+        "120",
+        "30"
+      ],
+      "answer": 0,
+      "explanation": "6 = 2 × 3 and 20 = 2² × 5, so LCM = 2² × 3 × 5 = 60."
+    },
+    {
+      "q": "HCF(a, b) = 4, LCM(a, b) = 60 and a = 12. What is b?",
+      "options": [
+        "20",
+        "5",
+        "15",
+        "48"
+      ],
+      "answer": 0,
+      "explanation": "HCF × LCM = a × b, so 240 = 12 × b."
+    },
+    {
+      "q": "Euclid's division lemma states that for positive integers a and b, a = bq + r where ____.",
+      "options": [
+        "0 < r ≤ b",
+        "0 ≤ r < b",
+        "r > b",
+        "r = b"
+      ],
+      "answer": 1,
+      "explanation": "The remainder is less than the divisor."
+    }
+  ]
+}

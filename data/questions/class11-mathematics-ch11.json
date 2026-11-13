@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch11",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 11,
+  "chapter": "Chapter 11",
+  "title": "Introduction to Three Dimensional Geometry",
+  "icon": "🧭",
+  "questions": [
+    {
+      "q": "Into how many octants do the three coordinate planes divide space?",
+      "options": [
+        "4",
+        "6",
+        "3",
+        "8"
+      ],
+      "answer": 3,
+      "explanation": "Each axis divides space into two parts, giving 2 × 2 × 2 = 8."
+    },
+    {
+      "q": "What is the distance between (1, 2, 3) and (4, 6, 15)?",
+      "options": [
+        "169",
+        "12",
+        "15",
+        "13"
+      ],
+      "answer": 3,
+      "explanation": "√(9 + 16 + 144) = 13."
+    },
+    {
+      "q": "Which form do the coordinates of a point on the z-axis take?",
+      "options": [
+        "(0, 0, z)",
+        "(x, y, 0)",
+        "(x, 0, 0)",
+        "(0, y, 0)"
+      ],
+      "answer": 0,
+      "explanation": "The x and y coordinates are zero."
+    },
+    {
+      "q": "What is the distance of the point (2, 3, 6) from the origin?",
+      "options": [
+        "49",
+        "7",
+        "5",
+        "11"
+      ],
+      "answer": 1,
+      "explanation": "√(4 + 9 + 36) = 7."
+    },
+    {
+      "q": "What is the midpoint of (2, 4, 6) and (4, 6, 8)?",
+      "options": [
+        "(1, 1, 1)",
+        "(6, 10, 14)",
+        "(2, 3, 4)",
+        "(3, 5, 7)"
+      ],
+      "answer": 3,
+      "explanation": "Average each coordinate."
+    },
+    {
+      "q": "How many coordinate planes are there?",
+      "options": [
+        "6",
+        "4",
+        "2",
+        "3"
+      ],
+      "answer": 3,
+      "explanation": "The xy, yz and zx planes."
+    }
+  ]
+}

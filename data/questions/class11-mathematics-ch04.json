@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch04",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 4,
+  "chapter": "Chapter 4",
+  "title": "Complex Numbers and Quadratic Equations",
+  "icon": "🧿",
+  "questions": [
+    {
+      "q": "i² = ____.",
+      "options": [
+        "1",
+        "i",
+        "−1",
+        "−i"
+      ],
+      "answer": 2,
+      "explanation": "By definition, i = √(−1)."
+    },
+    {
+      "q": "What is (2 + 3i) + (1 − i)?",
+      "options": [
+        "3 + 2i",
+        "3 − 2i",
+        "1 + 2i",
+        "3 + 4i"
+      ],
+      "answer": 0,
+      "explanation": "Add real parts and imaginary parts separately."
+    },
+    {
+      "q": "What is |3 + 4i|?",
+      "options": [
+        "25",
+        "7",
+        "5",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "√(3² + 4²) = 5."
+    },
+    {
+      "q": "What is the conjugate of 5 − 2i?",
+      "options": [
+        "2 − 5i",
+        "5 + 2i",
+        "−5 + 2i",
+        "−5 − 2i"
+      ],
+      "answer": 1,
+      "explanation": "Change the sign of the imaginary part."
+    },
+    {
+      "q": "What is i⁷?",
+      "options": [
+        "i",
+        "−1",
+        "−i",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "i⁷ = i⁴ · i³ = 1 · (−i)."
+    },
+    {
+      "q": "What is (1 + i)²?",
+      "options": [
+        "2i",
+        "1 + 2i",
+        "0",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "1 + 2i + i² = 2i."
+    }
+  ]
+}

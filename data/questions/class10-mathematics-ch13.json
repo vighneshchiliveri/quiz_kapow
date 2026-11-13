@@ -1,0 +1,78 @@
+{
+  "id": "class10-mathematics-ch13",
+  "class": "10",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 13,
+  "chapter": "Chapter 13",
+  "title": "Statistics",
+  "icon": "📊",
+  "questions": [
+    {
+      "q": "For grouped data, the mean is ____.",
+      "options": [
+        "Σx / n only",
+        "Σf / Σfx",
+        "Σfx / Σf",
+        "Σf × Σx"
+      ],
+      "answer": 2,
+      "explanation": "Mean is the sum of frequency times class mark divided by total frequency."
+    },
+    {
+      "q": "The empirical relation between the three measures of central tendency is ____.",
+      "options": [
+        "Mean = 3 Median − 2 Mode",
+        "Mode = 2 Median − 3 Mean",
+        "Mode = 3 Median − 2 Mean",
+        "Median = 3 Mode − 2 Mean"
+      ],
+      "answer": 2,
+      "explanation": "This is the standard relation."
+    },
+    {
+      "q": "What is the median of 3, 5, 7, 9, 11?",
+      "options": [
+        "35",
+        "9",
+        "7",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "The middle value of five ordered numbers is the third one."
+    },
+    {
+      "q": "The modal class is the class with the ____.",
+      "options": [
+        "smallest width",
+        "highest frequency",
+        "largest class mark",
+        "lowest frequency"
+      ],
+      "answer": 1,
+      "explanation": "The mode lies in the class that occurs most often."
+    },
+    {
+      "q": "What is the mean of 10, 20 and 30?",
+      "options": [
+        "15",
+        "30",
+        "60",
+        "20"
+      ],
+      "answer": 3,
+      "explanation": "(10 + 20 + 30)/3 = 20."
+    },
+    {
+      "q": "To find the median of grouped data, you look for the class whose cumulative frequency is ____.",
+      "options": [
+        "just greater than n/2",
+        "equal to zero",
+        "equal to n",
+        "less than n/4"
+      ],
+      "answer": 0,
+      "explanation": "That is the median class."
+    }
+  ]
+}

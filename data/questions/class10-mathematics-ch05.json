@@ -1,0 +1,78 @@
+{
+  "id": "class10-mathematics-ch05",
+  "class": "10",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 5,
+  "chapter": "Chapter 5",
+  "title": "Arithmetic Progressions",
+  "icon": "🪜",
+  "questions": [
+    {
+      "q": "What is the 10th term of the AP 2, 7, 12, …?",
+      "options": [
+        "52",
+        "57",
+        "42",
+        "47"
+      ],
+      "answer": 3,
+      "explanation": "a + 9d = 2 + 9 × 5 = 47."
+    },
+    {
+      "q": "What is the sum of the first 20 natural numbers?",
+      "options": [
+        "190",
+        "420",
+        "210",
+        "200"
+      ],
+      "answer": 2,
+      "explanation": "n(n + 1)/2 = 20 × 21/2 = 210."
+    },
+    {
+      "q": "What is the common difference of 7, 3, −1, …?",
+      "options": [
+        "3",
+        "−3",
+        "4",
+        "−4"
+      ],
+      "answer": 3,
+      "explanation": "3 − 7 = −4."
+    },
+    {
+      "q": "For the AP 5, 8, 11, …, which term is 35?",
+      "options": [
+        "12th",
+        "9th",
+        "10th",
+        "11th"
+      ],
+      "answer": 3,
+      "explanation": "5 + (n − 1)3 = 35 gives n = 11."
+    },
+    {
+      "q": "What is the sum of the first 10 odd natural numbers?",
+      "options": [
+        "100",
+        "90",
+        "110",
+        "55"
+      ],
+      "answer": 0,
+      "explanation": "The sum of the first n odd numbers is n²."
+    },
+    {
+      "q": "If aₙ = 3n + 2, what is a₅?",
+      "options": [
+        "15",
+        "17",
+        "14",
+        "20"
+      ],
+      "answer": 1,
+      "explanation": "3 × 5 + 2 = 17."
+    }
+  ]
+}

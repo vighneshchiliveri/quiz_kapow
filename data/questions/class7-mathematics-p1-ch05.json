@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p1-ch05",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 5,
+  "chapter": "Chapter 5",
+  "title": "Parallel and Intersecting Lines",
+  "icon": "↔️",
+  "questions": [
+    {
+      "q": "When two lines intersect, vertically opposite angles are ____.",
+      "options": [
+        "always 90°",
+        "complementary",
+        "equal",
+        "supplementary"
+      ],
+      "answer": 2,
+      "explanation": "Vertically opposite angles are always equal."
+    },
+    {
+      "q": "The sum of angles in a linear pair is ____.",
+      "options": [
+        "360°",
+        "180°",
+        "90°",
+        "270°"
+      ],
+      "answer": 1,
+      "explanation": "Adjacent angles on a straight line add up to 180°."
+    },
+    {
+      "q": "Two lines intersect and one angle is 60°. What is the vertically opposite angle?",
+      "options": [
+        "30°",
+        "60°",
+        "120°",
+        "90°"
+      ],
+      "answer": 1,
+      "explanation": "Vertically opposite angles are equal."
+    },
+    {
+      "q": "A transversal is a line that ____.",
+      "options": [
+        "touches a circle",
+        "cuts two or more lines at distinct points",
+        "is parallel to a line",
+        "is the longest line"
+      ],
+      "answer": 1,
+      "explanation": "A transversal crosses other lines at different points."
+    },
+    {
+      "q": "When two parallel lines are cut by a transversal, corresponding angles are ____.",
+      "options": [
+        "unrelated",
+        "equal",
+        "complementary",
+        "supplementary"
+      ],
+      "answer": 1,
+      "explanation": "Corresponding angles are equal for parallel lines."
+    },
+    {
+      "q": "What is the complement of 35°?",
+      "options": [
+        "145°",
+        "55°",
+        "65°",
+        "35°"
+      ],
+      "answer": 1,
+      "explanation": "Complementary angles add to 90°, so 90° − 35° = 55°."
+    }
+  ]
+}

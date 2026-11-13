@@ -1,0 +1,78 @@
+{
+  "id": "class8-mathematics-p1-ch04",
+  "class": "8",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 4,
+  "chapter": "Chapter 4",
+  "title": "Quadrilaterals",
+  "icon": "🔷",
+  "questions": [
+    {
+      "q": "What is the sum of the interior angles of a quadrilateral?",
+      "options": [
+        "180°",
+        "270°",
+        "360°",
+        "540°"
+      ],
+      "answer": 2,
+      "explanation": "A quadrilateral can be divided into 2 triangles, so 2 × 180° = 360°."
+    },
+    {
+      "q": "Which quadrilateral has all sides equal and all angles 90°?",
+      "options": [
+        "Trapezium",
+        "Square",
+        "Rectangle",
+        "Rhombus"
+      ],
+      "answer": 1,
+      "explanation": "A square has equal sides and right angles."
+    },
+    {
+      "q": "The diagonals of a rhombus ____.",
+      "options": [
+        "bisect each other at right angles",
+        "do not meet",
+        "are equal",
+        "are parallel"
+      ],
+      "answer": 0,
+      "explanation": "This is a property of a rhombus."
+    },
+    {
+      "q": "The diagonals of a rectangle are ____.",
+      "options": [
+        "unequal",
+        "perpendicular",
+        "parallel",
+        "equal"
+      ],
+      "answer": 3,
+      "explanation": "In a rectangle, both diagonals have the same length."
+    },
+    {
+      "q": "In a parallelogram, adjacent angles are ____.",
+      "options": [
+        "complementary",
+        "supplementary",
+        "right angles",
+        "equal"
+      ],
+      "answer": 1,
+      "explanation": "Adjacent angles add up to 180°."
+    },
+    {
+      "q": "A trapezium has ____.",
+      "options": [
+        "two pairs of parallel sides",
+        "four equal sides",
+        "no parallel sides",
+        "exactly one pair of parallel sides"
+      ],
+      "answer": 3,
+      "explanation": "This is the definition of a trapezium."
+    }
+  ]
+}

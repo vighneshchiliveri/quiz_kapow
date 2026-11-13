@@ -1,0 +1,78 @@
+{
+  "id": "class10-mathematics-ch04",
+  "class": "10",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 4,
+  "chapter": "Chapter 4",
+  "title": "Quadratic Equations",
+  "icon": "🧩",
+  "questions": [
+    {
+      "q": "What are the roots of x² − 5x + 6 = 0?",
+      "options": [
+        "5 and 1",
+        "2 and 3",
+        "−2 and −3",
+        "1 and 6"
+      ],
+      "answer": 1,
+      "explanation": "(x − 2)(x − 3) = 0."
+    },
+    {
+      "q": "The discriminant of ax² + bx + c = 0 is ____.",
+      "options": [
+        "b² − 4ac",
+        "4ac − b²",
+        "√(b² − 4ac)",
+        "b² + 4ac"
+      ],
+      "answer": 0,
+      "explanation": "D = b² − 4ac."
+    },
+    {
+      "q": "When are the roots of a quadratic equation real and equal?",
+      "options": [
+        "D > 0",
+        "a = 0",
+        "D < 0",
+        "D = 0"
+      ],
+      "answer": 3,
+      "explanation": "Equal roots occur when the discriminant is zero."
+    },
+    {
+      "q": "Does 2x² − 4x + 3 = 0 have real roots?",
+      "options": [
+        "No, because D = −8",
+        "Yes, two distinct roots",
+        "Yes, equal roots",
+        "Cannot be found"
+      ],
+      "answer": 0,
+      "explanation": "D = 16 − 24 = −8 < 0."
+    },
+    {
+      "q": "What are the roots of x² − 9 = 0?",
+      "options": [
+        "0 and 9",
+        "3 and −3",
+        "3 only",
+        "9 and −9"
+      ],
+      "answer": 1,
+      "explanation": "x² = 9 gives x = ±3."
+    },
+    {
+      "q": "The quadratic formula gives x = ____.",
+      "options": [
+        "(−b ± √(b² − 4ac)) / 2a",
+        "(b ± √(b² − 4ac)) / a",
+        "(−b ± b² − 4ac) / 2a",
+        "−b / 2a only"
+      ],
+      "answer": 0,
+      "explanation": "This is the standard formula."
+    }
+  ]
+}

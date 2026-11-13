@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p2-ch06",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 2",
+  "order": 6,
+  "chapter": "Chapter 6",
+  "title": "Constructions and Tilings",
+  "icon": "🧩",
+  "questions": [
+    {
+      "q": "Which two instruments are mainly needed to construct a triangle with given sides?",
+      "options": [
+        "Protractor and set square only",
+        "Pencil only",
+        "Ruler and compass",
+        "Divider and eraser"
+      ],
+      "answer": 2,
+      "explanation": "Arcs drawn with a compass fix the third vertex."
+    },
+    {
+      "q": "Which regular polygon cannot tile a plane by itself?",
+      "options": [
+        "Equilateral triangle",
+        "Square",
+        "Regular hexagon",
+        "Regular pentagon"
+      ],
+      "answer": 3,
+      "explanation": "The interior angle of 108° does not divide 360° evenly."
+    },
+    {
+      "q": "What is the interior angle of an equilateral triangle?",
+      "options": [
+        "45°",
+        "90°",
+        "60°",
+        "120°"
+      ],
+      "answer": 2,
+      "explanation": "All three angles are equal and add to 180°."
+    },
+    {
+      "q": "What is each interior angle of a regular hexagon?",
+      "options": [
+        "135°",
+        "120°",
+        "108°",
+        "60°"
+      ],
+      "answer": 1,
+      "explanation": "(6 − 2) × 180° ÷ 6 = 120°."
+    },
+    {
+      "q": "What is the sum of the angles around a point?",
+      "options": [
+        "90°",
+        "360°",
+        "180°",
+        "720°"
+      ],
+      "answer": 1,
+      "explanation": "A full turn is 360°."
+    },
+    {
+      "q": "To construct a triangle with sides 4 cm, 5 cm and 6 cm, which rule do you use?",
+      "options": [
+        "SAS",
+        "ASA",
+        "RHS",
+        "SSS"
+      ],
+      "answer": 3,
+      "explanation": "All three sides are known."
+    }
+  ]
+}

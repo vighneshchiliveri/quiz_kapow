@@ -1,0 +1,78 @@
+{
+  "id": "class12-mathematics-ch08",
+  "class": "12",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 8,
+  "chapter": "Chapter 8",
+  "title": "Application of Integrals",
+  "icon": "📐",
+  "questions": [
+    {
+      "q": "What is the area under y = x from x = 0 to x = 2?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "∫₀² x dx = [x²/2] = 2."
+    },
+    {
+      "q": "What is the area bounded by y = x², the x-axis and x = 3 (from x = 0)?",
+      "options": [
+        "3",
+        "18",
+        "9",
+        "27"
+      ],
+      "answer": 2,
+      "explanation": "∫₀³ x² dx = 27/3 = 9."
+    },
+    {
+      "q": "What is the area of the circle x² + y² = a²?",
+      "options": [
+        "πa",
+        "2πa",
+        "a²",
+        "πa²"
+      ],
+      "answer": 3,
+      "explanation": "This is the standard result."
+    },
+    {
+      "q": "The area between two curves is ____.",
+      "options": [
+        "sum of both integrals",
+        "product of both curves",
+        "∫ (upper curve − lower curve) dx",
+        "∫ (lower − upper) dx"
+      ],
+      "answer": 2,
+      "explanation": "Subtract the lower function from the upper one."
+    },
+    {
+      "q": "What is the area under y = 2x from x = 1 to x = 3?",
+      "options": [
+        "8",
+        "9",
+        "4",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "[x²] from 1 to 3 = 9 − 1 = 8."
+    },
+    {
+      "q": "What is the area of the ellipse x²/a² + y²/b² = 1?",
+      "options": [
+        "π(a + b)",
+        "πab",
+        "ab",
+        "πa²b²"
+      ],
+      "answer": 1,
+      "explanation": "This is the standard result."
+    }
+  ]
+}

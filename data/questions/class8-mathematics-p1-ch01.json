@@ -1,0 +1,78 @@
+{
+  "id": "class8-mathematics-p1-ch01",
+  "class": "8",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 1,
+  "chapter": "Chapter 1",
+  "title": "A Square and A Cube",
+  "icon": "🧊",
+  "questions": [
+    {
+      "q": "What is 15²?",
+      "options": [
+        "225",
+        "150",
+        "255",
+        "30"
+      ],
+      "answer": 0,
+      "explanation": "15 × 15 = 225."
+    },
+    {
+      "q": "What is the cube root of 27?",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "27"
+      ],
+      "answer": 0,
+      "explanation": "3 × 3 × 3 = 27."
+    },
+    {
+      "q": "What is √144?",
+      "options": [
+        "72",
+        "14",
+        "12",
+        "11"
+      ],
+      "answer": 2,
+      "explanation": "12 × 12 = 144."
+    },
+    {
+      "q": "What is 5³?",
+      "options": [
+        "15",
+        "125",
+        "25",
+        "75"
+      ],
+      "answer": 1,
+      "explanation": "5 × 5 × 5 = 125."
+    },
+    {
+      "q": "By what smallest number should 12 be multiplied to get a perfect square?",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "2"
+      ],
+      "answer": 1,
+      "explanation": "12 = 2² × 3, so multiply by 3 to get 36."
+    },
+    {
+      "q": "Which of these is a perfect cube?",
+      "options": [
+        "100",
+        "300",
+        "216",
+        "250"
+      ],
+      "answer": 2,
+      "explanation": "216 = 6³."
+    }
+  ]
+}

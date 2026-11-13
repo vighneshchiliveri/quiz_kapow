@@ -1,0 +1,78 @@
+{
+  "id": "class8-mathematics-p2-ch07",
+  "class": "8",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 2",
+  "order": 7,
+  "chapter": "Chapter 7",
+  "title": "Area",
+  "icon": "🟩",
+  "questions": [
+    {
+      "q": "What is the area of a triangle with base 10 cm and height 6 cm?",
+      "options": [
+        "16 cm²",
+        "36 cm²",
+        "30 cm²",
+        "60 cm²"
+      ],
+      "answer": 2,
+      "explanation": "½ × 10 × 6 = 30 cm²."
+    },
+    {
+      "q": "What is the area of a parallelogram with base 8 cm and height 5 cm?",
+      "options": [
+        "13 cm²",
+        "40 cm²",
+        "20 cm²",
+        "80 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Area = base × height = 8 × 5 = 40."
+    },
+    {
+      "q": "What is the area of a trapezium with parallel sides 6 cm and 10 cm and height 4 cm?",
+      "options": [
+        "24 cm²",
+        "64 cm²",
+        "16 cm²",
+        "32 cm²"
+      ],
+      "answer": 3,
+      "explanation": "½ × (6 + 10) × 4 = 32."
+    },
+    {
+      "q": "What is the area of a rhombus with diagonals 8 cm and 6 cm?",
+      "options": [
+        "48 cm²",
+        "14 cm²",
+        "28 cm²",
+        "24 cm²"
+      ],
+      "answer": 3,
+      "explanation": "½ × d₁ × d₂ = ½ × 8 × 6 = 24."
+    },
+    {
+      "q": "What is the area of a square whose diagonal is 10 cm?",
+      "options": [
+        "100 cm²",
+        "50 cm²",
+        "25 cm²",
+        "20 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Area = ½ × d² = ½ × 100 = 50."
+    },
+    {
+      "q": "1 m² is equal to how many cm²?",
+      "options": [
+        "10,000",
+        "1,00,000",
+        "1000",
+        "100"
+      ],
+      "answer": 0,
+      "explanation": "1 m = 100 cm, so 1 m² = 100 × 100 cm²."
+    }
+  ]
+}

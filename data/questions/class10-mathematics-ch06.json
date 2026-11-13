@@ -1,0 +1,78 @@
+{
+  "id": "class10-mathematics-ch06",
+  "class": "10",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 6,
+  "chapter": "Chapter 6",
+  "title": "Triangles",
+  "icon": "🔺",
+  "questions": [
+    {
+      "q": "Two triangles are similar if ____.",
+      "options": [
+        "their corresponding angles are equal and sides are proportional",
+        "they are both right-angled",
+        "they have the same area",
+        "they have the same perimeter"
+      ],
+      "answer": 0,
+      "explanation": "This defines similar triangles."
+    },
+    {
+      "q": "The Basic Proportionality Theorem says a line parallel to one side of a triangle ____.",
+      "options": [
+        "is perpendicular to the base",
+        "bisects the triangle",
+        "is equal to the third side",
+        "divides the other two sides in the same ratio"
+      ],
+      "answer": 3,
+      "explanation": "This is also called Thales' theorem."
+    },
+    {
+      "q": "Two similar triangles have sides in the ratio 2 : 3. What is the ratio of their areas?",
+      "options": [
+        "8 : 27",
+        "4 : 9",
+        "2 : 3",
+        "3 : 2"
+      ],
+      "answer": 1,
+      "explanation": "The ratio of areas equals the square of the ratio of sides."
+    },
+    {
+      "q": "A right triangle has legs 6 and 8. What is the hypotenuse?",
+      "options": [
+        "9",
+        "10",
+        "14",
+        "12"
+      ],
+      "answer": 1,
+      "explanation": "6² + 8² = 100."
+    },
+    {
+      "q": "Which criterion proves that two triangles are similar when two angles of one equal two angles of the other?",
+      "options": [
+        "SAS",
+        "RHS",
+        "SSS",
+        "AA"
+      ],
+      "answer": 3,
+      "explanation": "Angle-Angle similarity."
+    },
+    {
+      "q": "In △ABC, DE ∥ BC with AD = 2, DB = 3 and AE = 4. What is EC?",
+      "options": [
+        "5",
+        "6",
+        "3",
+        "8/3"
+      ],
+      "answer": 1,
+      "explanation": "AD/DB = AE/EC gives 2/3 = 4/EC, so EC = 6."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "class9-mathematics-ch05",
+  "class": "9",
+  "subject": "Mathematics",
+  "book": "Ganita Manjari Part 1",
+  "order": 5,
+  "chapter": "Chapter 5",
+  "title": "I'm Up and Down, and Round and Round",
+  "icon": "⭕",
+  "questions": [
+    {
+      "q": "The longest chord of a circle is its ____.",
+      "options": [
+        "arc",
+        "diameter",
+        "radius",
+        "tangent"
+      ],
+      "answer": 1,
+      "explanation": "A diameter passes through the centre and is the longest chord."
+    },
+    {
+      "q": "A perpendicular from the centre of a circle to a chord ____.",
+      "options": [
+        "is parallel to it",
+        "makes the chord longer",
+        "bisects the chord",
+        "is equal to the radius"
+      ],
+      "answer": 2,
+      "explanation": "This is a standard circle theorem."
+    },
+    {
+      "q": "Equal chords of a circle are ____ from the centre.",
+      "options": [
+        "twice",
+        "equidistant",
+        "always 0 distance",
+        "at different distances"
+      ],
+      "answer": 1,
+      "explanation": "Equal chords are the same distance from the centre."
+    },
+    {
+      "q": "What is the angle in a semicircle?",
+      "options": [
+        "60°",
+        "180°",
+        "90°",
+        "45°"
+      ],
+      "answer": 2,
+      "explanation": "The angle subtended by a diameter on the circle is a right angle."
+    },
+    {
+      "q": "The angle subtended by an arc at the centre is ____ the angle at any point on the remaining circle.",
+      "options": [
+        "equal to",
+        "half",
+        "three times",
+        "twice"
+      ],
+      "answer": 3,
+      "explanation": "This is the central angle theorem."
+    },
+    {
+      "q": "What is the circumference of a circle of radius 7 cm (π = 22/7)?",
+      "options": [
+        "22 cm",
+        "14 cm",
+        "44 cm",
+        "154 cm"
+      ],
+      "answer": 2,
+      "explanation": "2πr = 2 × 22/7 × 7 = 44."
+    }
+  ]
+}

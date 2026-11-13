@@ -1,0 +1,78 @@
+{
+  "id": "class12-mathematics-ch04",
+  "class": "12",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 4,
+  "chapter": "Chapter 4",
+  "title": "Determinants",
+  "icon": "🔲",
+  "questions": [
+    {
+      "q": "What is the determinant of [[1, 2], [3, 4]]?",
+      "options": [
+        "−10",
+        "−2",
+        "2",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "1 × 4 − 2 × 3 = −2."
+    },
+    {
+      "q": "If A is a 3 × 3 matrix, |2A| = ____.",
+      "options": [
+        "2|A|",
+        "8|A|",
+        "9|A|",
+        "6|A|"
+      ],
+      "answer": 1,
+      "explanation": "|kA| = kⁿ|A| for an n × n matrix."
+    },
+    {
+      "q": "A matrix is singular if its determinant is ____.",
+      "options": [
+        "negative",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explanation": "Singular matrices have no inverse."
+    },
+    {
+      "q": "The area of a triangle with given vertices can be found using ____.",
+      "options": [
+        "the product of coordinates",
+        "a determinant without ½",
+        "½ times the absolute value of a determinant",
+        "the sum of coordinates"
+      ],
+      "answer": 2,
+      "explanation": "Area = ½ |det|."
+    },
+    {
+      "q": "The inverse of A exists if and only if ____.",
+      "options": [
+        "|A| = 0",
+        "A is singular",
+        "A is symmetric",
+        "|A| ≠ 0"
+      ],
+      "answer": 3,
+      "explanation": "A non-zero determinant means the matrix is invertible."
+    },
+    {
+      "q": "A · adj(A) = ____.",
+      "options": [
+        "A²",
+        "0",
+        "I",
+        "|A| I"
+      ],
+      "answer": 3,
+      "explanation": "This is the key property of the adjoint."
+    }
+  ]
+}

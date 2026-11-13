@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch10",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 10,
+  "chapter": "Chapter 10",
+  "title": "Conic Sections",
+  "icon": "🌀",
+  "questions": [
+    {
+      "q": "What is the eccentricity of a circle?",
+      "options": [
+        "1",
+        "less than 1 but positive",
+        "0",
+        "greater than 1"
+      ],
+      "answer": 2,
+      "explanation": "A circle is a conic with e = 0."
+    },
+    {
+      "q": "What is the radius of the circle x² + y² = 25?",
+      "options": [
+        "25",
+        "√5",
+        "10",
+        "5"
+      ],
+      "answer": 3,
+      "explanation": "r² = 25 gives r = 5."
+    },
+    {
+      "q": "What is the focus of the parabola y² = 8x?",
+      "options": [
+        "(8, 0)",
+        "(0, 2)",
+        "(2, 0)",
+        "(4, 0)"
+      ],
+      "answer": 2,
+      "explanation": "y² = 4ax with 4a = 8 gives a = 2."
+    },
+    {
+      "q": "The eccentricity of an ellipse is ____.",
+      "options": [
+        "equal to 1",
+        "equal to 0 always",
+        "less than 1",
+        "greater than 1"
+      ],
+      "answer": 2,
+      "explanation": "For an ellipse, 0 < e < 1."
+    },
+    {
+      "q": "The eccentricity of a hyperbola is ____.",
+      "options": [
+        "greater than 1",
+        "equal to 0",
+        "less than 1",
+        "equal to 1"
+      ],
+      "answer": 0,
+      "explanation": "For a hyperbola, e > 1."
+    },
+    {
+      "q": "What is the length of the major axis of x²/25 + y²/9 = 1?",
+      "options": [
+        "6",
+        "10",
+        "3",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "a² = 25, so a = 5 and the major axis is 2a = 10."
+    }
+  ]
+}

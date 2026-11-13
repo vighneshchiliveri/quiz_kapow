@@ -1,0 +1,78 @@
+{
+  "id": "class12-mathematics-ch06",
+  "class": "12",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 6,
+  "chapter": "Chapter 6",
+  "title": "Application of Derivatives",
+  "icon": "⛰️",
+  "questions": [
+    {
+      "q": "Where is the critical point of f(x) = x² − 4x?",
+      "options": [
+        "x = 4",
+        "x = −2",
+        "x = 0",
+        "x = 2"
+      ],
+      "answer": 3,
+      "explanation": "f′(x) = 2x − 4 = 0."
+    },
+    {
+      "q": "A circle's radius grows at 1 cm/s. How fast is its area changing when r = 5 cm?",
+      "options": [
+        "π cm²/s",
+        "10π cm²/s",
+        "5π cm²/s",
+        "25π cm²/s"
+      ],
+      "answer": 1,
+      "explanation": "dA/dt = 2πr · dr/dt = 10π."
+    },
+    {
+      "q": "A function f is increasing when ____.",
+      "options": [
+        "f″(x) > 0 only",
+        "f′(x) < 0",
+        "f′(x) > 0",
+        "f′(x) = 0"
+      ],
+      "answer": 2,
+      "explanation": "A positive derivative means the function rises."
+    },
+    {
+      "q": "What is the maximum value of f(x) = −x² + 4?",
+      "options": [
+        "−4",
+        "2",
+        "4",
+        "0"
+      ],
+      "answer": 2,
+      "explanation": "The maximum occurs at x = 0."
+    },
+    {
+      "q": "What is the slope of the tangent to y = x² at x = 3?",
+      "options": [
+        "6",
+        "9",
+        "3",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "dy/dx = 2x = 6."
+    },
+    {
+      "q": "If f′(c) = 0 and f″(c) < 0, then f has a ____ at c.",
+      "options": [
+        "discontinuity",
+        "local maximum",
+        "point of inflection only",
+        "local minimum"
+      ],
+      "answer": 1,
+      "explanation": "This is the second derivative test."
+    }
+  ]
+}

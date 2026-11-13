@@ -1,0 +1,78 @@
+{
+  "id": "class10-mathematics-ch09",
+  "class": "10",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 9,
+  "chapter": "Chapter 9",
+  "title": "Some Applications of Trigonometry",
+  "icon": "🗼",
+  "questions": [
+    {
+      "q": "The angle of elevation is measured from the ____.",
+      "options": [
+        "line of sight down to the horizontal",
+        "vertical down to the object",
+        "ground to the sun only",
+        "horizontal up to the line of sight"
+      ],
+      "answer": 3,
+      "explanation": "It is the angle you look up above the horizontal."
+    },
+    {
+      "q": "A 10 m ladder makes an angle of 30° with the ground. How high does it reach on the wall?",
+      "options": [
+        "10 m",
+        "20 m",
+        "5√3 m",
+        "5 m"
+      ],
+      "answer": 3,
+      "explanation": "Height = 10 sin 30° = 5 m."
+    },
+    {
+      "q": "A tower 10 m high casts a shadow 10 m long. What is the angle of elevation of the sun?",
+      "options": [
+        "30°",
+        "90°",
+        "45°",
+        "60°"
+      ],
+      "answer": 2,
+      "explanation": "tan θ = 10/10 = 1, so θ = 45°."
+    },
+    {
+      "q": "A tower is 10√3 m high and you stand 10 m from its base. What is the angle of elevation of its top?",
+      "options": [
+        "45°",
+        "60°",
+        "30°",
+        "90°"
+      ],
+      "answer": 1,
+      "explanation": "tan θ = √3, so θ = 60°."
+    },
+    {
+      "q": "The angle of depression from the top of a building to a point on the ground equals the angle of elevation from that point to the top because ____.",
+      "options": [
+        "they are complementary",
+        "they are alternate angles",
+        "they are vertical angles",
+        "they are supplementary"
+      ],
+      "answer": 1,
+      "explanation": "Parallel horizontal lines create equal alternate angles."
+    },
+    {
+      "q": "A 15 m high tower makes an angle of elevation of 30° at a point. What is the distance of the point from its base?",
+      "options": [
+        "30 m",
+        "15√3 m",
+        "15/√3 m",
+        "7.5 m"
+      ],
+      "answer": 1,
+      "explanation": "tan 30° = 15/d, so d = 15√3."
+    }
+  ]
+}

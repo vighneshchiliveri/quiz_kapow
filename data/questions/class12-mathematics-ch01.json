@@ -1,0 +1,78 @@
+{
+  "id": "class12-mathematics-ch01",
+  "class": "12",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 1,
+  "chapter": "Chapter 1",
+  "title": "Relations and Functions",
+  "icon": "🔗",
+  "questions": [
+    {
+      "q": "A relation is an equivalence relation if it is ____.",
+      "options": [
+        "symmetric and transitive only",
+        "reflexive and symmetric only",
+        "one-one and onto",
+        "reflexive, symmetric and transitive"
+      ],
+      "answer": 3,
+      "explanation": "All three properties must hold."
+    },
+    {
+      "q": "Is f: ℝ → ℝ, f(x) = 2x + 3 bijective?",
+      "options": [
+        "No, it is not onto",
+        "No, it is not one-one",
+        "Yes",
+        "No, it is neither"
+      ],
+      "answer": 2,
+      "explanation": "It is both one-one and onto."
+    },
+    {
+      "q": "How many functions are there from a set with 2 elements to a set with 3 elements?",
+      "options": [
+        "5",
+        "6",
+        "9",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "Each of the 2 elements has 3 choices, so 3² = 9."
+    },
+    {
+      "q": "How many bijections are there from a 3-element set to itself?",
+      "options": [
+        "6",
+        "9",
+        "3",
+        "27"
+      ],
+      "answer": 0,
+      "explanation": "3! = 6."
+    },
+    {
+      "q": "If f(x) = x + 1 and g(x) = x², what is (g ∘ f)(2)?",
+      "options": [
+        "25",
+        "5",
+        "9",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "f(2) = 3, g(3) = 9."
+    },
+    {
+      "q": "Is f: ℝ → ℝ, f(x) = x² one-one?",
+      "options": [
+        "Yes, but not onto",
+        "Yes",
+        "Only on positive numbers",
+        "No"
+      ],
+      "answer": 3,
+      "explanation": "f(2) = f(−2), so it is not one-one."
+    }
+  ]
+}

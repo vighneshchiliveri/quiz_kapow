@@ -1,0 +1,78 @@
+{
+  "id": "class11-mathematics-ch07",
+  "class": "11",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 7,
+  "chapter": "Chapter 7",
+  "title": "Binomial Theorem",
+  "icon": "🔡",
+  "questions": [
+    {
+      "q": "How many terms are there in the expansion of (x + y)ⁿ?",
+      "options": [
+        "n − 1",
+        "2n",
+        "n + 1",
+        "n"
+      ],
+      "answer": 2,
+      "explanation": "The terms run from r = 0 to r = n."
+    },
+    {
+      "q": "What is the coefficient of x² in (1 + x)⁵?",
+      "options": [
+        "5",
+        "20",
+        "10",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "⁵C₂ = 10."
+    },
+    {
+      "q": "The general term Tᵣ₊₁ in (a + b)ⁿ is ____.",
+      "options": [
+        "ⁿCᵣ₊₁ aⁿ⁻ʳ bʳ",
+        "ⁿCᵣ aʳ bʳ",
+        "ⁿCᵣ aⁿ⁻ʳ bʳ",
+        "ⁿPᵣ aⁿ⁻ʳ bʳ"
+      ],
+      "answer": 2,
+      "explanation": "This is the standard formula."
+    },
+    {
+      "q": "What is the sum of the coefficients in the expansion of (1 + x)⁴?",
+      "options": [
+        "4",
+        "8",
+        "32",
+        "16"
+      ],
+      "answer": 3,
+      "explanation": "Put x = 1 to get 2⁴."
+    },
+    {
+      "q": "Which term is the middle term in the expansion of (a + b)⁶?",
+      "options": [
+        "5th",
+        "3rd",
+        "4th",
+        "6th"
+      ],
+      "answer": 2,
+      "explanation": "With 7 terms in total, the middle one is the 4th."
+    },
+    {
+      "q": "What is the third term in the expansion of (1 + x)³ in increasing powers of x?",
+      "options": [
+        "x³",
+        "3x",
+        "3x²",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "(1 + x)³ = 1 + 3x + 3x² + x³."
+    }
+  ]
+}

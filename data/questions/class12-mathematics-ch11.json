@@ -1,0 +1,78 @@
+{
+  "id": "class12-mathematics-ch11",
+  "class": "12",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 11,
+  "chapter": "Chapter 11",
+  "title": "Three Dimensional Geometry",
+  "icon": "🧊",
+  "questions": [
+    {
+      "q": "For direction cosines l, m, n, we have l² + m² + n² = ____.",
+      "options": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "This is the standard identity."
+    },
+    {
+      "q": "What are the direction ratios of the x-axis?",
+      "options": [
+        "0, 1, 0",
+        "1, 1, 1",
+        "0, 0, 1",
+        "1, 0, 0"
+      ],
+      "answer": 3,
+      "explanation": "The x-axis points along the positive x direction."
+    },
+    {
+      "q": "Two lines with direction ratios (a₁, b₁, c₁) and (a₂, b₂, c₂) are perpendicular if ____.",
+      "options": [
+        "a₁a₂ = b₁b₂ = c₁c₂",
+        "a₁ + a₂ = 0",
+        "a₁a₂ + b₁b₂ + c₁c₂ = 0",
+        "a₁/a₂ = b₁/b₂ = c₁/c₂"
+      ],
+      "answer": 2,
+      "explanation": "Their dot product is zero."
+    },
+    {
+      "q": "What are the direction cosines of the z-axis?",
+      "options": [
+        "1, 1, 1",
+        "0, 0, 1",
+        "0, 1, 0",
+        "1, 0, 0"
+      ],
+      "answer": 1,
+      "explanation": "The z-axis makes 90°, 90° and 0° with the axes."
+    },
+    {
+      "q": "For the plane ax + by + cz + d = 0, the normal has direction ratios ____.",
+      "options": [
+        "a, b, c",
+        "1, 1, 1",
+        "−a, b, d",
+        "d, a, b"
+      ],
+      "answer": 0,
+      "explanation": "The coefficients of x, y and z give the normal."
+    },
+    {
+      "q": "What is the distance of the plane 2x + 3y + 6z = 14 from the origin?",
+      "options": [
+        "2",
+        "1",
+        "7",
+        "14"
+      ],
+      "answer": 0,
+      "explanation": "14/√(4 + 9 + 36) = 14/7 = 2."
+    }
+  ]
+}

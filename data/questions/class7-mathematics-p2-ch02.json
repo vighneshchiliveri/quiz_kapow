@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p2-ch02",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 2",
+  "order": 2,
+  "chapter": "Chapter 2",
+  "title": "Operations with Integers",
+  "icon": "➕",
+  "questions": [
+    {
+      "q": "What is (−3) × (−4)?",
+      "options": [
+        "−7",
+        "12",
+        "−12",
+        "7"
+      ],
+      "answer": 1,
+      "explanation": "A negative times a negative is positive."
+    },
+    {
+      "q": "What is (−6) × 5?",
+      "options": [
+        "−11",
+        "−30",
+        "30",
+        "11"
+      ],
+      "answer": 1,
+      "explanation": "A negative times a positive is negative."
+    },
+    {
+      "q": "What is (−20) ÷ (−5)?",
+      "options": [
+        "25",
+        "−25",
+        "4",
+        "−4"
+      ],
+      "answer": 2,
+      "explanation": "A negative divided by a negative is positive."
+    },
+    {
+      "q": "What is 15 ÷ (−3)?",
+      "options": [
+        "12",
+        "−5",
+        "−45",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "A positive divided by a negative is negative."
+    },
+    {
+      "q": "What is (−2) × (−2) × (−2)?",
+      "options": [
+        "6",
+        "8",
+        "−8",
+        "−6"
+      ],
+      "answer": 2,
+      "explanation": "(−2) × (−2) = 4, and 4 × (−2) = −8."
+    },
+    {
+      "q": "What is (−7) × 0?",
+      "options": [
+        "7",
+        "0",
+        "Undefined",
+        "−7"
+      ],
+      "answer": 1,
+      "explanation": "Anything multiplied by zero is zero."
+    }
+  ]
+}

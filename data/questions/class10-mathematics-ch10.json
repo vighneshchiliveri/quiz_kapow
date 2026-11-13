@@ -1,0 +1,78 @@
+{
+  "id": "class10-mathematics-ch10",
+  "class": "10",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 10,
+  "chapter": "Chapter 10",
+  "title": "Circles",
+  "icon": "⭕",
+  "questions": [
+    {
+      "q": "A tangent to a circle meets the circle at ____.",
+      "options": [
+        "two points",
+        "exactly one point",
+        "no point",
+        "infinitely many points"
+      ],
+      "answer": 1,
+      "explanation": "That is the definition of a tangent."
+    },
+    {
+      "q": "The tangent at a point of a circle is ____ to the radius through that point.",
+      "options": [
+        "parallel",
+        "perpendicular",
+        "equal",
+        "at 45°"
+      ],
+      "answer": 1,
+      "explanation": "The tangent is perpendicular to the radius at the point of contact."
+    },
+    {
+      "q": "Tangents drawn from an external point to a circle are ____.",
+      "options": [
+        "perpendicular",
+        "parallel",
+        "equal in length",
+        "of different lengths"
+      ],
+      "answer": 2,
+      "explanation": "The two tangent segments are equal."
+    },
+    {
+      "q": "A point is 13 cm from the centre of a circle of radius 5 cm. What is the length of the tangent from it?",
+      "options": [
+        "18 cm",
+        "√194 cm",
+        "8 cm",
+        "12 cm"
+      ],
+      "answer": 3,
+      "explanation": "√(13² − 5²) = √144 = 12."
+    },
+    {
+      "q": "How many tangents can be drawn from a point inside a circle?",
+      "options": [
+        "One",
+        "Infinite",
+        "Two",
+        "None"
+      ],
+      "answer": 3,
+      "explanation": "Every line through an interior point cuts the circle."
+    },
+    {
+      "q": "How many tangents can be drawn from an external point?",
+      "options": [
+        "Infinite",
+        "Three",
+        "Two",
+        "One"
+      ],
+      "answer": 2,
+      "explanation": "Exactly two tangents exist."
+    }
+  ]
+}

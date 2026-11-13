@@ -1,0 +1,78 @@
+{
+  "id": "class8-mathematics-p1-ch02",
+  "class": "8",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 2,
+  "chapter": "Chapter 2",
+  "title": "Power Play",
+  "icon": "⚡",
+  "questions": [
+    {
+      "q": "What is 2⁵?",
+      "options": [
+        "64",
+        "25",
+        "32",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "2 × 2 × 2 × 2 × 2 = 32."
+    },
+    {
+      "q": "Simplify 3² × 3⁴.",
+      "options": [
+        "9⁶",
+        "3¹⁶",
+        "3⁸",
+        "3⁶"
+      ],
+      "answer": 3,
+      "explanation": "When multiplying powers with the same base, add the exponents."
+    },
+    {
+      "q": "What is (−7)⁰?",
+      "options": [
+        "1",
+        "−7",
+        "7",
+        "0"
+      ],
+      "answer": 0,
+      "explanation": "Any non-zero number raised to the power 0 is 1."
+    },
+    {
+      "q": "What is 10⁻² as a fraction?",
+      "options": [
+        "1/20",
+        "100",
+        "1/100",
+        "−100"
+      ],
+      "answer": 2,
+      "explanation": "A negative exponent means the reciprocal: 1/10²."
+    },
+    {
+      "q": "What is (2³)²?",
+      "options": [
+        "32",
+        "64",
+        "128",
+        "16"
+      ],
+      "answer": 1,
+      "explanation": "(2³)² = 2⁶ = 64."
+    },
+    {
+      "q": "What is 45,000 in standard form?",
+      "options": [
+        "4.5 × 10³",
+        "4.5 × 10⁴",
+        "0.45 × 10⁴",
+        "45 × 10³"
+      ],
+      "answer": 1,
+      "explanation": "Move the decimal point 4 places: 4.5 × 10⁴."
+    }
+  ]
+}

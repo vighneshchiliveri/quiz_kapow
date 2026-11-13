@@ -1,0 +1,78 @@
+{
+  "id": "class10-mathematics-ch07",
+  "class": "10",
+  "subject": "Mathematics",
+  "book": "NCERT Mathematics",
+  "order": 7,
+  "chapter": "Chapter 7",
+  "title": "Coordinate Geometry",
+  "icon": "🗺️",
+  "questions": [
+    {
+      "q": "What is the distance between (1, 2) and (4, 6)?",
+      "options": [
+        "4",
+        "5",
+        "7",
+        "25"
+      ],
+      "answer": 1,
+      "explanation": "√(3² + 4²) = 5."
+    },
+    {
+      "q": "What is the midpoint of (2, 3) and (8, 7)?",
+      "options": [
+        "(6, 4)",
+        "(10, 10)",
+        "(3, 2)",
+        "(5, 5)"
+      ],
+      "answer": 3,
+      "explanation": "((2 + 8)/2, (3 + 7)/2) = (5, 5)."
+    },
+    {
+      "q": "Which point divides (0, 0) and (6, 0) in the ratio 1 : 2?",
+      "options": [
+        "(2, 0)",
+        "(3, 0)",
+        "(4, 0)",
+        "(1, 0)"
+      ],
+      "answer": 0,
+      "explanation": "x = (1 × 6 + 2 × 0)/3 = 2."
+    },
+    {
+      "q": "What is the distance of (−5, 12) from the origin?",
+      "options": [
+        "7",
+        "13",
+        "17",
+        "169"
+      ],
+      "answer": 1,
+      "explanation": "√(25 + 144) = √169 = 13."
+    },
+    {
+      "q": "What is the area of the triangle with vertices (0, 0), (4, 0) and (0, 3)?",
+      "options": [
+        "12",
+        "7",
+        "3.5",
+        "6"
+      ],
+      "answer": 3,
+      "explanation": "½ × 4 × 3 = 6."
+    },
+    {
+      "q": "Points (1, 1), (2, 2) and (3, 3) are ____.",
+      "options": [
+        "collinear",
+        "vertices of an equilateral triangle",
+        "vertices of a right triangle",
+        "vertices of a square"
+      ],
+      "answer": 0,
+      "explanation": "All three lie on the line y = x."
+    }
+  ]
+}

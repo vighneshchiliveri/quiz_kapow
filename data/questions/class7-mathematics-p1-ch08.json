@@ -1,0 +1,78 @@
+{
+  "id": "class7-mathematics-p1-ch08",
+  "class": "7",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 8,
+  "chapter": "Chapter 8",
+  "title": "Working with Fractions",
+  "icon": "🥧",
+  "questions": [
+    {
+      "q": "What is 2/3 × 3/4?",
+      "options": [
+        "6/7",
+        "1/2",
+        "5/7",
+        "2/4"
+      ],
+      "answer": 1,
+      "explanation": "(2 × 3)/(3 × 4) = 6/12 = 1/2."
+    },
+    {
+      "q": "What is 3/4 ÷ 1/2?",
+      "options": [
+        "3/2",
+        "1/2",
+        "3/8",
+        "2/3"
+      ],
+      "answer": 0,
+      "explanation": "Dividing by 1/2 is the same as multiplying by 2: 3/4 × 2 = 3/2."
+    },
+    {
+      "q": "What is 1/2 of 3/5?",
+      "options": [
+        "1/10",
+        "3/10",
+        "4/7",
+        "3/7"
+      ],
+      "answer": 1,
+      "explanation": "1/2 × 3/5 = 3/10."
+    },
+    {
+      "q": "What is the reciprocal of 5/7?",
+      "options": [
+        "1",
+        "5/7",
+        "−5/7",
+        "7/5"
+      ],
+      "answer": 3,
+      "explanation": "The reciprocal flips numerator and denominator."
+    },
+    {
+      "q": "What is 2/5 ÷ 4?",
+      "options": [
+        "1/10",
+        "4/10",
+        "8/5",
+        "1/5"
+      ],
+      "answer": 0,
+      "explanation": "2/5 × 1/4 = 2/20 = 1/10."
+    },
+    {
+      "q": "A ribbon 3/4 m long is cut into pieces of 1/8 m each. How many pieces are there?",
+      "options": [
+        "6",
+        "8",
+        "3",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "3/4 ÷ 1/8 = 3/4 × 8 = 6."
+    }
+  ]
+}

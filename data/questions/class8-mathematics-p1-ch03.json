@@ -1,0 +1,78 @@
+{
+  "id": "class8-mathematics-p1-ch03",
+  "class": "8",
+  "subject": "Mathematics",
+  "book": "Ganita Prakash Part 1",
+  "order": 3,
+  "chapter": "Chapter 3",
+  "title": "A Story of Numbers",
+  "icon": "📜",
+  "questions": [
+    {
+      "q": "What number does the Roman numeral XIV represent?",
+      "options": [
+        "24",
+        "6",
+        "16",
+        "14"
+      ],
+      "answer": 3,
+      "explanation": "X = 10 and IV = 4, so XIV = 14."
+    },
+    {
+      "q": "Which Roman numeral stands for 50?",
+      "options": [
+        "L",
+        "D",
+        "C",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "L is 50, C is 100, D is 500."
+    },
+    {
+      "q": "What is the key feature of the Hindu–Arabic number system?",
+      "options": [
+        "Place value with a symbol for zero",
+        "Only letters",
+        "Only tally marks",
+        "No symbols"
+      ],
+      "answer": 0,
+      "explanation": "Place value and zero allow any number to be written with ten digits."
+    },
+    {
+      "q": "What is 5 written in binary (base 2)?",
+      "options": [
+        "11",
+        "101",
+        "111",
+        "110"
+      ],
+      "answer": 1,
+      "explanation": "5 = 4 + 0 + 1 = 101₂."
+    },
+    {
+      "q": "What number does the Roman numeral IX represent?",
+      "options": [
+        "6",
+        "9",
+        "4",
+        "11"
+      ],
+      "answer": 1,
+      "explanation": "I before X means 1 less than 10."
+    },
+    {
+      "q": "Which digits are used in the binary number system?",
+      "options": [
+        "0 to 7",
+        "0 to 9",
+        "0 and 1",
+        "1 and 2"
+      ],
+      "answer": 2,
+      "explanation": "Base 2 uses only 0 and 1."
+    }
+  ]
+}
