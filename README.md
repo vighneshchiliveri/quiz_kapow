@@ -9,3 +9,10 @@ Solo practice and classroom challenge quizzes. Static site (no build step).
 
 ## Deploy on Vercel
 Framework Preset: Other · Build Command: empty · Output Directory: empty.
+
+## Mathematics question bank (Classes 6–12)
+`tools/` holds the compact source text for all Mathematics chapters (`math_data_*.py`) and `gen_math.py`, which writes the JSON files in `data/questions/`.
+Edit or add questions there (one line each: `question ~ correct ~ wrong 1 ~ wrong 2 ~ wrong 3 ~ explanation`), then run:
+`python3 tools/gen_math.py && python3 build_index.py`
+Or edit the generated JSON files directly (then only `build_index.py` is needed).
+Chapter lists: Classes 6–8 Ganita Prakash, Class 9 Ganita Manjari Part 1, Classes 10–12 NCERT Mathematics.
